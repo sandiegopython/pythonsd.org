@@ -1,79 +1,119 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width">
-  <title>PythonSD - San Diego's Python Community</title>
-  
-  <link rel="stylesheet" href="media/css/style.css">
-  <script src="media/js/jquery-1.5.1.min.js"></script>
-  <script src="media/js/scripts.js"></script>
-  <!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-</head>
-<body>
-<header class="center clearfix" id="navtop">
-<a href="/" class="logo fleft"><img src="media/img/pythonsd_logo.png" alt="San Diego's Python Community"></a>
-<nav class="fright">
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="http://www.meetup.com/San-Diego-Python-Users-Group">Events</a></li>
-  </ul>
-</nav>
-</header>
+  <head>
+    <meta charset="utf-8">
+    <title>PythonSD - San Diego's Python Community</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="San Diego's Python Community -- a place to learn, share and meet cool San Diego pythonistas">
 
-<div class="about center part clearfix">
+    <!-- Le styles -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 20px;
+        padding-bottom: 20px;
+      }
 
-    <header class="title">
-      <p class="fleft">About</p>
-    </header>
-    <aside class="column4 mright">
-      <p class="mbottom">
-        Are you a Python developer? Do you love Django? Show off your Python skills and meet other cool Pythonistas. Join the <a href="http://www.meetup.com/San-Diego-Python-Users-Group">meetup</a>, show up and have a good time!
-      </p>
-      <menu>
-        <ul>
-          <li><a href="#navevents" class="arrow more">Events</a></li>
-          <li><a href="#navjobs" class="arrow more">Hire a Pythonista</a></li>
+      #main-hero {
+        background: url(assets/img/background.jpg);
+        padding: 0;
+      }
+
+      #main-hero div {
+        width: 100%;
+        height: 100%;
+        /* TODO: replace background -- we really should have a photo of San Diego Python folks */
+        background-color: rgba(255, 255, 255, 0.6); /* credits: lachlanhardy on flickr */
+        padding: 60px;
+      }
+
+      ul li.list-inline {
+        float: left;
+        margin-right: 20px;
+      }
+    </style>
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit" id="main-hero">
+        <div>
+          <h1>San Diego's Python Community</h1>
+          <p>A place to learn, share and meet cool San Diego pythonistas</p>
+        </div>
+      </div>
+      <p style="float: right; text-align: right; margin-top: -25px; margin-bottom: 0; font-size: 0.8em;">Photo: <a href="http://www.flickr.com/photos/lachlanhardy/3283320402/">lachlanhardy</a></p>
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="span4">
+          <h2>Upcoming Events</h2>
+           <p>There are a number of events happening almost every week. Our general meetup is usually the last Thursday of the month. For up-to-date information, please check our <a href="http://www.meetup.com/pythonsd/">meetup</a> page.</p>
+        </div>
+        <div class="span4">
+          <h2>Your Python Project</h2>
+           <p>In addition to hosting periodic project days, we have a <a href="https://groups.google.com/group/pythonsd">mailing list</a> setup for getting local help on your problem. You can also bring a tough problem to the monthly general meeting as well.</p>
+       </div>
+        <div class="span4">
+          <h2>Hire a Pythonista</h2>
+          <p>Are you looking to hire a Python developer in San Diego? Post a brief description of your opening to our <a href="https://groups.google.com/group/pythonsd">mailing list</a>. Please specify whether it is freelance or full-time. Be concise and respectful.</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="span12">
+          <h2>Hosts &amp; Sponsors</h2>
+          <p>
+            We would like to thank the companies and organizations who have hosted or sponsored past events. Let us know if you would like to become a sponsor or host.
+          </p>
+          <p>
+            <a href="http://aicenterca.com/"><img src="assets/img/sponsors/ansir_logo.png" alt="Ansir Innovation Center" /></a>
+            <a href="http://www.cukerinteractive.com/"><img src="assets/img/sponsors/cuker_logo.png" alt="Cuker Interactive" /></a>
+            <a href="http://co-merge.com/"><img src="assets/img/sponsors/comerge_logo.png" alt="Co-Merge" /></a>
+          </p>
+        </div>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p style="float: right">Hosted by <a href="https://github.com/pythonsd/pythonsd.github.com">github</a></p>
+        <ul class="unstyled">
+          <li class="list-inline"><a href="http://www.meetup.com/pythonsd/">Meetup Group</a></li>
+          <li class="list-inline"><a href="https://groups.google.com/group/pythonsd">Mailing List</a></li>
+          <li class="list-inline"><a href="https://twitter.com/#!/sandiegopython">@sandiegopython</a></li>
         </ul>
-      </menu>
-    </aside>
-    
-    <section class="columnthird content">
-    
-    <article id="navevents" class="detail">
-    <h2>Events</h2>
-    <p>We hold a general meetup once a month for people of all skill levels. Sometimes it is technical and sometimes social. In addition, there are a number of other events such as Udacity study sessions. See our <a href="http://www.meetup.com/San-Diego-Python-Users-Group">meetup group</a> for the latest dates and events.</p>
-    </article>
-    
-    <article id="navjobs" class="detail">
-    <h2>Hire a Pythonista</h2>
-    <p>Please send a brief description of your opening to our <a href="http://groups.google.com/group/pythonsd">mailing list</a>. Please specify whether this is freelance or full-time. Please be respectful and concise.</p>
-    </article>
-    
-    </section>
-    
-</div>
-  
+      </footer>
 
-<footer class="center part clearfix">
-    <ul class="social column3 mright">
-      <li><a href="https://twitter.com/djangosd">Twitter</a></li>
-      <li><a href="http://groups.google.com/group/pythonsd">Mailing list</a></li>
-      <li><a href="http://www.meetup.com/San-Diego-Python-Users-Group">Meetup</a></li>
-    </ul>
-  
-  <div class="up column3 mright">
-    <a href="#navtop" class="ir">Go up</a>
-  </div>
-  
-  <nav class="column3">
-    <p>Powered by <a href="https://github.com/pythonsd/pythonsd.github.com">Github</a>. Design by <a href="http://sylvainlafitte.com/">Sylvain Lafitte</a>.</p>
-  </nav>
-</footer>
+    </div> <!-- /container -->
 
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap-transition.js"></script>
+    <script src="assets/js/bootstrap-alert.js"></script>
+    <script src="assets/js/bootstrap-modal.js"></script>
+    <script src="assets/js/bootstrap-dropdown.js"></script>
+    <script src="assets/js/bootstrap-scrollspy.js"></script>
+    <script src="assets/js/bootstrap-tab.js"></script>
+    <script src="assets/js/bootstrap-tooltip.js"></script>
+    <script src="assets/js/bootstrap-popover.js"></script>
+    <script src="assets/js/bootstrap-button.js"></script>
+    <script src="assets/js/bootstrap-collapse.js"></script>
+    <script src="assets/js/bootstrap-carousel.js"></script>
+    <script src="assets/js/bootstrap-typeahead.js"></script>
 
-</body>
+  </body>
 </html>
+
