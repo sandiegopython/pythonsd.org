@@ -1,0 +1,5 @@
+venv
+output
+.DS_Store
+*.pyc
+*.pid
