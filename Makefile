@@ -56,6 +56,7 @@ devserver:
 	$(BASEDIR)/develop_server.sh restart
 
 publish:
+	mkdir -p $(OUTPUTDIR)
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ssh_upload: publish
