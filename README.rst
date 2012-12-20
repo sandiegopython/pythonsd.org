@@ -11,6 +11,7 @@ Generating the website
   % pip install -r requirements.txt
   % make html
 
+
 Viewing the site locally
 ------------------------
 
@@ -25,4 +26,12 @@ Stop the development server
 ::
 
   % ./develop_server.sh stop
+
+
+Publishing to Github
+--------------------
+
+::
+
+  % make github
 
