@@ -22,4 +22,6 @@ so I got the L/XL. I think it looks better on white than black. Feel free
 to change up the colors too. I think it would look good in pink!
 
 San Diego Python does not make any money from this. It just gets our name
-out and spreads the Python love.
+out and spreads the Python love. If you want to make your own gear with our
+logo, high quality versions of the logo are on
+<a href="https://github.com/pythonsd/logos">Github</a>.
