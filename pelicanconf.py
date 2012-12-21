@@ -32,3 +32,5 @@ FEED_ATOM = "feeds/posts.atom.xml"
 JINJA_EXTENSIONS = (
     'jinja2.ext.loopcontrols',
 )
+
+STATIC_PATHS = ['images']
