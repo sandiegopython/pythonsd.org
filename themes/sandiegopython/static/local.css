@@ -77,3 +77,7 @@ h3 { margin-top: 2.5em; }
 .social a[href*='meetup.com']:before {content: url('./images/icons/meetup.png'); margin-right: 2px; vertical-align: -3px;}
 .social a[href*='freenode.net']:before {content: url('./images/icons/irc.png'); margin-right: 2px; vertical-align: -3px;}
 .social a[href*='groups.google.com']:before {content: url('./images/icons/groups.png'); margin-right: 2px; vertical-align: -3px;}
+
+img.sponsor {
+    margin: 20px;
+}
