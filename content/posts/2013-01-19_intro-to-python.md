@@ -23,3 +23,8 @@ sponsored by Cuker Interactive and in April we will be having a
 [Python for Data Analysis](http://www.meetup.com/pythonsd/events/94234812/)
 workshop sponsored by Qualcomm's Open Source Portal group. Sign up before
 they fill up!
+
+**Update:** Here are the
+[slides](http://www.slideshare.net/kendallchuang/intro-to-python-workshop-san-diego-ca-january-19-2013),
+[photos](http://www.meetup.com/pythonsd/photos/all_photos/?photoAlbumId=12733702),
+and the [code](https://github.com/pythonsd/twitter-example).
