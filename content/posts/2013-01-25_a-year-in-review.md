@@ -28,9 +28,10 @@ for people learning Python and Django and had all of them sponsored by local
 companies or the Python Software Foundation. We have another two lined up too.
 We had about thirty people last night for our regular meetup.
 
-We have had lots of help. The other two Davids, Bharad, Trey, Paul and Kim and
-many others have been awesome. Our sponsors really care about the San Diego
-tech scene. The Ansir Innovation Center has been extremely generous letting us
-host our events at their location. Most of all though, the attendees have been
+We have had lots of help. The other two Davids, Bharad, Trey, Paul, Kim and
+many others have been awesome. Our sponsors -- Cuker and Brightscope -- really
+care about the San Diego tech scene and have been tremendous in supporting us.
+The Ansir Innovation Center and Co-Merge have been extremely generous letting us
+host our events at their locations. Most of all though, the attendees have been
 fantastic. I know for a fact that a few people have landed great jobs because
 of San Diego Python. Hopefully the next year is just as good as this one.
