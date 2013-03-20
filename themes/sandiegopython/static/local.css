@@ -21,7 +21,7 @@
 
 .navbar .nav > li > a { color: #49AFCD; }
 .navbar .divider-vertical { border-right: 1px solid #4D4D4D; }
-.navbar { margin-bottom: 4em; } 
+.navbar { margin-bottom: 4em; }
 
 
 /* Styling for elements */
@@ -34,7 +34,7 @@ h3 { margin-top: 2.5em; }
 /* Styling for articles */
 .article { padding-bottom:20px; padding-right: 40px; }
 .content-title { margin-bottom: 30px; }
-.article a:hover { text-decoration: none; } 
+.article a:hover { text-decoration: none; }
 
 
 

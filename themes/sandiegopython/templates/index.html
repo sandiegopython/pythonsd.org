@@ -1,9 +1,9 @@
 {% extends "base.html" %}
 {% block content_title %}{% endblock %}
-{% block content %}        
+{% block content %}
 
 {% if articles %}
-{% for article in articles_page.object_list %}        
+{% for article in articles_page.object_list %}
 
 {# First item #}
 {% if loop.first and not articles_page.has_previous() %}
@@ -11,9 +11,9 @@
     <div class='article'>
         <div class="content-title">
             <a href="{{ SITEURL }}/{{ article.url }}"><h1>{{ article.title }}</h1></a>
-            {% include "metadata.html" %} 
+            {% include "metadata.html" %}
         </div>
-        
+
         <div>{{ article.content }}</div>
         <hr />
     </div>
@@ -23,7 +23,7 @@
     {% endif %}
 
 {# other items #}
-{% else %} 
+{% else %}
 
     <div class='article'>
         <a href="{{ SITEURL }}/{{ article.url }}"><h2>{{ article.title }}</h2></a>
