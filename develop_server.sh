@@ -60,12 +60,24 @@ function start_up(){
   echo "Starting up Pelican and SimpleHTTPServer"
   shift
   $PELICAN --debug --autoreload -r $INPUTDIR -o $OUTPUTDIR -s $CONFFILE $PELICANOPTS &
-  echo $! > $PELICAN_PID
+  PID=$!
+  echo $PID > $PELICAN_PID
   cd $OUTPUTDIR
   python -m SimpleHTTPServer &
   echo $! > $SRV_PID
   cd $BASEDIR
-  sleep 1 && echo 'Pelican and SimpleHTTPServer processes now running in background.'
+  sleep 1
+  PROCESS=$(ps --no-headers -p $PID | tail -n 1 | awk '{print $4}')
+  echo $PROCESS
+  if [[ $PROCESS == "" ]]; then
+    echo 'Pelican server process failed'
+    exit 1
+  elif [[ $SRV_PID == "" ]]; then
+    echo 'SimpleHttpServer server process failed'
+    exit 1
+  else
+    echo 'Pelican and SimpleHTTPServer processes now running in background.'
+  fi
 }
 
 ###
