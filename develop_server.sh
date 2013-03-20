@@ -29,7 +29,7 @@ function usage(){
 function shut_down(){
   if [[ -f $SRV_PID ]]; then
     PID=$(cat $SRV_PID)
-    PROCESS=$(ps -p $PID | tail -n 1 | awk '{print $4}')
+    PROCESS=$(ps --no-headers -p $PID | tail -n 1 | awk '{print $4}')
     if [[ $PROCESS != "" ]]; then
       echo "Killing SimpleHTTPServer"
       kill $PID
@@ -43,7 +43,7 @@ function shut_down(){
 
   if [[ -f $PELICAN_PID ]]; then
     PID=$(cat $PELICAN_PID)
-    PROCESS=$(ps -p $PID | tail -n 1 | awk '{print $4}')
+    PROCESS=$(ps --no-headers -p $PID | tail -n 1 | awk '{print $4}')
     if [[ $PROCESS != "" ]]; then
       echo "Killing Pelican"
       kill $PID
