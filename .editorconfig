@@ -1,0 +1,32 @@
+root = true
+
+[*]
+trim_trailing_whitespace = true
+insert_final_newline = true
+end_of_line = lf
+charset = utf-8
+
+[*.{sh,rst}]
+indent_style = space
+indent_size = 2
+
+[*.py]
+indent_style = space
+indent_size = 4
+
+[Makefile]
+indent_style = tab
+
+[*.min.*{js,css}]
+trim_trailing_whitespace = ignore
+insert_final_newline = ignore
+end_of_line = ignore
+indent_style = ignore
+indent_size = ignore
+
+[{output,venv}/**]
+trim_trailing_whitespace = ignore
+insert_final_newline = ignore
+end_of_line = ignore
+indent_style = ignore
+indent_size = ignore

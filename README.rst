@@ -20,7 +20,7 @@ Start the development server
 ::
 
   % ./develop_server.sh start
-  
+
 Stop the development server
 
 ::
