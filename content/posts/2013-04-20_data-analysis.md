@@ -17,11 +17,14 @@ today's event!
 
 Here are the presentations:
 
-* Numpy & IPython by Dave Cook
+* IPython and Numpy by Dave Cook
+ ([video](http://www.youtube.com/watch?v=wQXhnhbx5CM))
 * [Pandas](http://nbviewer.ipython.org/5406317) by Karmel Allison
  ([video](http://www.youtube.com/watch?v=riJjfiH7Neg))
 * Matplotlib by Drew Arnett
-* [Analyzing crime & census data](https://clarinova.box.com/shared/static/lug0dq4wzht39fwkgge9.pdf) by Eric Busboom
+* [Analyzing crime & census data](https://clarinova.box.com/shared/static/lug0dq4wzht39fwkgge9.pdf)
+ by Eric Busboom
+ ([video](http://www.youtube.com/watch?v=zGPdgykykTQ))
 * [Blaze: the future of numpy?](http://www.slideshare.net/pythonsd/blaze-theevolutionofnumpy) by David Fischer
 
 I will edit this shortly with the remaining presentations and videos.
