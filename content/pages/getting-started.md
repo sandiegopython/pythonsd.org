@@ -97,11 +97,11 @@ to mention it to the
 Where to get help locally
 -------------------------
 
-You can always [email the Meetup group](PythonSD-list@meetup.com). To do so
-you need to be a member of the group and you must email the list from your
-registerred email. If you feel a bit shy about sending a note so widely,
-you can [send a note](http://www.meetup.com/pythonsd/suggestion/) that
-only goes to the organizers.
+You can always [email the Meetup group](mailto:PythonSD-list@meetup.com).
+To do so you need to be a member of the group and you must email the list
+from your registerred email. If you feel a bit shy about sending a note so
+widely, you can [send a note](http://www.meetup.com/pythonsd/suggestion/)
+that only goes to the organizers.
 
 You can ask one of the members on IRC. IRC is an old-school program for
 chat rooms popular with technology and open source communities. The San
