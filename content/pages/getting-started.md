@@ -67,6 +67,18 @@ There are other more topic specific books including:
 * Python Standard Library by Example by Doug Hellman
 
 
+Videos
+------
+
+There are great videos for both Python novices as well as experts.
+
+* [PyVideos](http://pyvideo.org/) - The big Python conferences such as
+ PyCon and Djangocon are recorded and the videos are made freely available.
+* [Getting started with Django](http://gettingstartedwithdjango.com/) -
+ This kickstarter funded video series is for people with some Python
+ background who are looking to learn Django.
+
+
 Past intro to Python workshops
 ------------------------------
 
