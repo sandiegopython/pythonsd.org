@@ -79,8 +79,8 @@ There are great videos for both Python novices as well as experts.
  background who are looking to learn Django.
 
 
-Past intro to Python workshops
-------------------------------
+Past San Diego Python workshops
+-------------------------------
 
 We host a number of workshops throughout the year and often they are
 sponsored by the [Python Software Foundation](http://www.python.org/psf/)
