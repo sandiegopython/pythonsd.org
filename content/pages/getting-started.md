@@ -109,11 +109,12 @@ to mention it to the
 Where to get help locally
 -------------------------
 
-You can always [email the Meetup group](mailto:PythonSD-list@meetup.com).
-To do so you need to be a member of the group and you must email the list
-from your registerred email. If you feel a bit shy about sending a note so
-widely, you can [send a note](http://www.meetup.com/pythonsd/suggestion/)
-that only goes to the organizers.
+In addition to showing up at our monthly Meetups and asking a question,
+you can start a thread on our
+[Google group](https://groups.google.com/group/pythonsd) which is setup
+specifically for getting help on local Python projects. Over 100 local
+people monitor that group and one of the members will answer your
+question fairly quickly.
 
 You can ask one of the members on IRC. IRC is an old-school program for
 chat rooms popular with technology and open source communities. The San
@@ -123,10 +124,6 @@ and type in any nickname in the Nickname box and #sandiegopython in the
 Channels box. Fill out a captcha and you can talk to somebody from the
 group. There is almost always somebody in the chatroom although they
 may be away or sleeping.
-
-Feel free to ask one of the organizers of the monthly meetup which is
-always the fourth Thursday of every month. See our
-[meetup site](http://meetup.com/pythonsd) for the latest information.
 
 
 Common uses of Python
