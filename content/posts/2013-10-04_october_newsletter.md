@@ -13,7 +13,8 @@ connect people looking for jobs to those with job openings.
 
 Here at San Diego Python, we love feedback. If you love our newsletter,
 tell us! If you hate it, we want to hear from you. Did you see some articles
-that we should have posted? [Email us][email-us].
+that we should have posted? Do you have an article, event or other suggestion
+for our next newsletter? [Email us][email-us].
 
 [email-us]: mailto:sandiegopython@gmail.com
 
