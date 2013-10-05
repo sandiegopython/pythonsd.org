@@ -4,8 +4,8 @@ Tags: workshop
 Slug: april-2013-data-analysis
 Author: David Fischer
 
-<a href="./static/images/2013-04-20_data-analysis.jpg">
-  <img src="./static/images/2013-04-20_data-analysis.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Python for Data Analysis" />
+<a href="/static/images/2013-04-20_data-analysis.jpg">
+  <img src="/static/images/2013-04-20_data-analysis.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Python for Data Analysis" />
 </a>
 
 We had about 40 people attend our

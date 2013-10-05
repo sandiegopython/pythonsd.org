@@ -4,8 +4,8 @@ Tags: gear
 Slug: san-diego-python-gear
 Author: David Fischer
 
-<a href="./static/images/pythonsd-hat.jpg">
-  <img src="./static/images/pythonsd-hat.jpg" style="width: 200px; margin: 10px;" class="img-polaroid pull-right" alt="San Diego Python hat" />
+<a href="/static/images/pythonsd-hat.jpg">
+  <img src="/static/images/pythonsd-hat.jpg" style="width: 200px; margin: 10px;" class="img-polaroid pull-right" alt="San Diego Python hat" />
 </a>
 
 We have hats!
