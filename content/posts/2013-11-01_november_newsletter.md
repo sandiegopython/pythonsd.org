@@ -26,6 +26,15 @@ guide for creating a fully fledged website with Django.
 [django-tango]: http://www.tangowithdjango.com/
 
 
+San Diego Python book exchange <br />
+San Diego Python is starting a technical book exchange. We are accepting
+books that folks are done reading and we have a number to lend out as well.
+Currently our loaner list has books on Django, algorithms, Git and more.
+[Email us][email-us] for details.
+
+[email-us]: mailto:sandiegopython@gmail.com
+
+
 Upcoming events
 ---------------
 
@@ -35,6 +44,15 @@ test-driven lens on November 2nd (tomorrow!). This is a free event sponsored by
 the Python Software Foundation Outreach and Education committee.
 
 [django-workshop]: http://www.meetup.com/pythonsd/events/138282532/
+
+
+[jQuery conference][jquery-con] (jquery.org) <br />
+jQuery conference is coming to San Diego's Mission Valley February 12-13 with
+training (the Roost conference) happening the two days prior. jQuery is
+a JavaScript technology for building website front-ends and is commonly
+used with back-end technologies such as Django or Flask.
+
+[jquery-con]: http://events.jquery.org/2014/san-diego/
 
 
 [Pycon US][pycon-us] (pycon.org) <br />
