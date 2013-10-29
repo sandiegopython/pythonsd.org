@@ -57,6 +57,15 @@ building out the world-wide cloud network to support the Playstation 4.
 [senior-python-dev]: http://www.gaikai.com/careers
 
 
+[Python software engineer wanted][python-software-dev] (independa.com) <br />
+Independa, a Carmel Valley based independent care technology solutions
+provider is looking for a Python developer familar with Django, MySQL and
+cloud deployment such as EC2 or Heroku. This was referred to San Diego Python
+by Laura and Steve of Steel Point Search.
+
+[python-software-dev]: http://www.independa.com/careers
+
+
 Would you like to see your job opening posted here? [Send it to us][send-it].
 It's free.
 
