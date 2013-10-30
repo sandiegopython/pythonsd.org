@@ -84,6 +84,18 @@ by Laura and Steve of Steel Point Search.
 [python-software-dev]: http://www.independa.com/careers
 
 
+[Programmer analyst][programmer-analyst] (ucsd.edu)
+[Biomedical data analyst][data-analyst] (ucsd.edu)
+<br />
+Jason from UCSD is looking to fill a few positions at UCSD research in
+Hillcrest. The programmer analyst position leans slightly heavier on the web
+side of Python while the data analyst opening leans heavier on the statistical
+side of Python.
+
+[programmer-analyst]: https://jobs.ucsd.edu/bulletin/job.aspx?cat=information&sortby=post&jobnum_in=67764
+[data-analyst]: https://jobs.ucsd.edu/bulletin/job.aspx?cat=information&sortby=post&jobnum_in=67803
+
+
 Would you like to see your job opening posted here? [Send it to us][send-it].
 It's free.
 
