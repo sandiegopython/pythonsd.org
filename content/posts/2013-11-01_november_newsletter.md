@@ -96,6 +96,13 @@ side of Python.
 [data-analyst]: https://jobs.ucsd.edu/bulletin/job.aspx?cat=information&sortby=post&jobnum_in=67803
 
 
+[Web developer][web-developer] (linkedin.com) <br />
+1AppWorks, a stealth-mode startup in La Jolla, is looking for an experienced
+web developer familiar with Python, PHP, Drupal, Django or Google App Engine.
+
+[web-developer]: http://www.linkedin.com/jobs2/view/9506327?trk=job_nov
+
+
 Would you like to see your job opening posted here? [Send it to us][send-it].
 It's free.
 
