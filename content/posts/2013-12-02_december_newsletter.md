@@ -55,14 +55,14 @@ Upcoming events
 ---------------
 
 [Hack Night 2013][hack-night] (meetup.com) <br />
-Instead of our usual monthly meetup -- the fourth Thursday of December is 12/26
--- by "popular" demand we will be having a hack night at Regent's Pizzeria in
-UTC. The date is locked in for Friday the 13th of December. Bring the project
-you're working on and show it off. We'll also have an overview of GitHub and a
-sign-up party for the uninitiated. If we get enought demand, we'll have an
-introduction to deploying websites on Heroku. See you there.
+By popular demand we will be having a hack night at Regent's Pizzeria in
+UTC on Friday the 13th of December. Bring the project you're working on and
+show it off. We'll also have an overview of GitHub and a sign-up party for
+the uninitiated. If you have any lingering questions from our
+[test-driven Django workshop][test-driven-django], bring it. See you there.
 
 [hack-night]: http://www.meetup.com/pythonsd/events/147424202/
+[test-driven-django]: http://test-driven-django-development.rtfd.org
 
 
 [jQuery conference][jquery-con] (jquery.org) <br />
