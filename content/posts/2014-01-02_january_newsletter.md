@@ -49,6 +49,23 @@ schedule won't be out for a bit, but registration is open.
 Jobs
 ----
 
+[Python software engineer wanted][python-software-dev] (independa.com) <br />
+Independa, a Carmel Valley based independent care technology solutions
+provider is looking for a Python developer familar with Django, MySQL and
+cloud deployment such as EC2 or Heroku. This was referred to San Diego Python
+by Laura and Steve of Steel Point Search who mentioned that there were trying
+to fill eight positions.
+
+[python-software-dev]: http://www.independa.com/careers
+
+
+[Python programmer][python-programmer] (ca.com) <br />
+Vijay from CA Technologies is looking for a Python developer for a contract
+to hire role. Specifically he is interested in a person with machine learning
+experience and the corresponding relevant Python packages.
+
+[python-programmer]: http://www.ca.com/us/careers.aspx
+
 
 Would you like to see your job opening posted here? [Send it to us][send-it].
 It's free.
