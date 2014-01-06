@@ -24,7 +24,8 @@ Upcoming events
 
 [San Diego PyLadies Hack Night][pyladies-hack-night] (meetup.com) <br />
 If last month's San Diego Python hack night wasn't enough for you, the local
-PyLadies group will be having one at the Ansir Center next Tuesday.
+PyLadies group will be having one at the Ansir Center. The date was moved
+to early February.
 
 [pyladies-hack-night]: http://www.meetup.com/sd-pyladies/events/140563442/
 
