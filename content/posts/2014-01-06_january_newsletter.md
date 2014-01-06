@@ -1,5 +1,5 @@
 Title: January Newsletter
-Date: 2014-01-02
+Date: 2014-01-06
 Tags: newsletter
 Slug: january-newsletter-2014
 Author: David Fischer
