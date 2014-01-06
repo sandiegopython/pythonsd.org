@@ -23,6 +23,17 @@ tech talk, please let us know.
 News
 ----
 
+[Probabilistic programming & Bayesian methods for hackers][mining-for-hackers]
+(github.io) <br />
+At the monthly meetup in November, a few people asked me about a good guide
+to data mining in Python. I recommended [a guide][guide-to-data-mining]
+(guidetodatamining.com) I had actually used and liked. This is a different
+guide that I have not yet read but that seems to have a greater focus on the
+existing Python ecosystem of tools such as NumPy, SciPy and PyMC.
+
+[guide-to-data-mining]: http://guidetodatamining.com/
+[mining-for-hackers]: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
 
 Upcoming events
 ---------------
