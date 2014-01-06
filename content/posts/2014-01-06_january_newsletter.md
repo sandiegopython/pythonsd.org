@@ -12,6 +12,11 @@ tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
 for our next newsletter? [Email us][email-us].
 
+We are also looking for a speaker for this month's San Diego Python
+[monthly meetup][monthly-meetup]. If you'd be willing to give a Python related
+tech talk, please let us know.
+
+[monthly-meetup]: http://www.meetup.com/pythonsd/events/156773962/
 [email-us]: mailto:sandiegopython@gmail.com
 
 
