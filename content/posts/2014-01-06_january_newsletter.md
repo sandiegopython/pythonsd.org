@@ -32,7 +32,7 @@ to early February.
 
 [Web technologies training with Apigee][apigee-training] (eventbrite.com) <br />
 Steve Traut from Apigee is giving a free web technologies training course in
-San Diego next week. If you are lost with web technologies like JavaScript and
+San Diego this week. If you are lost with web technologies like JavaScript and
 REST APIs, then this series is for you.
 
 [apigee-training]: http://www.eventbrite.com/e/free-api-app-trainings-by-apigee-tickets-9838555384
