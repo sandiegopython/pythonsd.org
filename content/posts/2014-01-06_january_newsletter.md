@@ -35,6 +35,16 @@ existing Python ecosystem of tools such as NumPy, SciPy and PyMC.
 [mining-for-hackers]: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
 
+[Getting started with Python in San Diego][new-to-pythonsd]
+(pythonsd.org) <br />
+I get asked regularly how to get started learning Python or what are the best
+resources for getting familiar with the Python ecosystem. This guide has
+links to local resources, videos, books and other tutorials to help you
+become a better programmer.
+
+[new-to-pythonsd]: http://pythonsd.org/pages/getting-started.html
+
+
 Upcoming events
 ---------------
 
