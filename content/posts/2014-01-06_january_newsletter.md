@@ -84,6 +84,14 @@ experience and the corresponding relevant Python packages.
 [python-programmer]: http://www.ca.com/us/careers.aspx
 
 
+[Web developer][web-developer] (email) <br />
+Gildshire, a startup from the La Jolla UTC area, is about to launch in beta
+and is looking for enthusiastic part time and full time Python web developers
+familiar with the web2py framework.
+
+[web-developer]: mailto:jobs@gildshire.com
+
+
 Would you like to see your job opening posted here? [Send it to us][send-it].
 It's free.
 
