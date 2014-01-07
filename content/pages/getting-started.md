@@ -95,9 +95,11 @@ or local companies such as
  in [January 2013](http://pythonsd.org/january-2013-intro-to-python.html)
 * Web programming - we held a couple different workshops focusing on
  web programming including Django Day in
- [February 2013](http://pythonsd.org/february-2013-django-day.html) and
- and Intro to Django workshop in
- [November 2012](http://www.meetup.com/pythonsd/events/83842622/)
+ [February 2013](http://pythonsd.org/february-2013-django-day.html),
+ Intro to Django in
+ [November 2012](http://www.meetup.com/pythonsd/events/83842622/) and a
+ Test-Driven Django Development Workshop in
+ [November 2013](http://pythonsd.org/november-2013-django-tdd-workshop.html)
 * Data analysis - we held a data analysis workshop in
  [April 2013](http://pythonsd.org/april-2013-data-analysis.html)
 
