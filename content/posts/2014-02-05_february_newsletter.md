@@ -42,7 +42,7 @@ workshop in mid March. The first one was a big success by our humble
 expectations and we are expanding our content for this one. We are still
 finalizing the location and sponsors.
 
-[test-driven]: http://www.meetup.com/pythonsd/events/138282532/
+[test-driven]: http://www.meetup.com/pythonsd/events/164679962/
 
 
 [Pycon US][pycon-us] (pycon.org) <br />
