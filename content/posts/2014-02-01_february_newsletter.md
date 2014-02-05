@@ -28,13 +28,6 @@ News
 Upcoming events
 ---------------
 
-[San Diego PyLadies Hack Night][pyladies-hack-night] (meetup.com) <br />
-Monday is PyLadies hack night at Brightscope! There will be a couple talks and
-it is beginner friendly. Space is very limited but I suspect the wait list
-will open up a little bit.
-
-[pyladies-hack-night]: http://www.meetup.com/sd-pyladies/events/140563442/
-
 
 [Pycon US][pycon-us] (pycon.org) <br />
 Pycon US, the largest Python interest conference, is coming up
