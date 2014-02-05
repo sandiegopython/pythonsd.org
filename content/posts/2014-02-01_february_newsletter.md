@@ -17,16 +17,32 @@ We are also looking for a speaker for this month's San Diego Python
 tech talk, please let us know. Soliciting speakers is becoming a regular
 occurrence.
 
-[monthly-meetup]: http://www.meetup.com/pythonsd/events/156773962/
+[monthly-meetup]: http://www.meetup.com/pythonsd/events/163679122/
 [email-us]: mailto:sandiegopython@gmail.com
 
 
 News
 ----
 
+[Two scoops of Django updated for Django 1.6][twoscoops] (twoscoopspress.com)
+<br />
+Two scoops of Django, a popular book from and for the Django community, has
+been revised for Django 1.6. This is a great book written by great people.
+
+[twoscoops]: http://twoscoopspress.com/products/two-scoops-of-django-1-6
+
 
 Upcoming events
 ---------------
+
+
+[Test-driven web development with Django II][test-driven] (meetup.com) <br />
+San Diego Python and PyLadies will be having another test-driven Django
+workshop in mid March. The first one was a big success by our humble
+expectations and we are expanding our content for this one. We are still
+finalizing the location and sponsors.
+
+[test-driven]: http://www.meetup.com/pythonsd/events/138282532/
 
 
 [Pycon US][pycon-us] (pycon.org) <br />
