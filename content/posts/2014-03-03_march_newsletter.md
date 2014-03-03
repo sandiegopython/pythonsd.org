@@ -12,13 +12,21 @@ tell us! If you hate it, we want to hear from you. Did you see some articles
 that we should have posted? Do you have an article, event or other suggestion
 for our next newsletter? [Email us][email-us].
 
-We are also looking for a speaker for this month's San Diego Python
+We are also looking for additional speakers for this month's San Diego Python
 [monthly meetup][monthly-meetup]. If you'd be willing to give a Python related
 tech talk, please let us know. Soliciting speakers is becoming a regular
 occurrence.
 
 [monthly-meetup]: http://www.meetup.com/pythonsd/events/163679122/
 [email-us]: mailto:sandiegopython@gmail.com
+
+
+Carol Willing will give a 10 minute preview of her PyCon poster
+presentation ["The Grammy goes to...Python"][grammy-pycon] at the March
+meeting. She will share some Python music tools including music21. music21 and
+iPython notebook will be demonstrated.
+
+[grammy-pycon]: https://us.pycon.org/2014/schedule/presentation/98/
 
 
 News
@@ -116,3 +124,22 @@ obligation.
 
 [send-it]: mailto:sandiegopython@gmail.com
 [accepts-donations]: https://psfmember.org/civicrm/contribute/transact?reset=1&id=9
+
+
+Interested in Speaking?
+-----------------------
+
+Sharing your knowledge or love of Python is a great way to improve your
+speaking skills and find others that share your interests. If you are working
+on a project or find a tool really useful, consider sharing it with the user
+group as a 5-15 minute lightning talk.
+
+
+[SciPy 2014][scipy-2014] (scipy.org) <br />
+SciPy 2014, the largest Python conference focused on scientific computing, is
+coming up in Austin, TX on July 6-12. The deadline for submitting proposals
+for talks and posters is **Friday, March 14**. There are many new additions to
+this year's expanded [SciPy conference][scipy-conference].
+
+[scipy-2014]: https://conference.scipy.org/scipy2014/
+[scipy-conference]: https://conference.scipy.org/scipy2014/about/
