@@ -32,6 +32,9 @@ iPython notebook will be demonstrated.
 News
 ----
 
+Big thanks to Young and David (yours truly) for presenting at the last
+Users Group meeting.
+
 
 Upcoming events
 ---------------
@@ -45,11 +48,11 @@ Note: meetup.com has been having some DDOS issues lately and may not be availabl
 [pyladies-hack-night]: http://www.meetup.com/sd-pyladies/events/166953232/
 
 
-[Test-driven web development with Django II][test-driven] (meetup.com) <br />
+[Test-driven web development with Django][test-driven] (meetup.com) <br />
 San Diego Python and PyLadies will be having another test-driven Django
 workshop in mid March. The first one was a big success by our humble
 expectations and we are expanding our content for this one. We are still
-finalizing the location and sponsors.
+finalizing the sponsors.
 
 [test-driven]: http://www.meetup.com/pythonsd/events/164679962/
 
