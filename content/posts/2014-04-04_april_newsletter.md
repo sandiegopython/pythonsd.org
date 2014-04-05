@@ -27,6 +27,14 @@ San Diego Python if you're going.
 [pycon-us]: https://us.pycon.org/2014/
 
 
+[Saturday study group][saturday-meetup] (meetup.com) <br />
+Carol is starting a Saturday study group (starting today!) that focuses on
+learning Python in a collaborative environment. The topics of the week will
+be Pelican and Flask.
+
+[saturday-meetup]: http://www.meetup.com/pythonsd/events/175274772/
+
+
 [Monthly meetup][monthly-meetup] (meetup.com) <br />
 Our regular monthly meetup will be held at the Ansir Center on April 24
 at 7pm. Young will have be presenting on IPython 2.0.
@@ -48,8 +56,6 @@ familiar with databases and backend web development.
 Shopventory, a local startup developing software to help small business owners,
 is looking for a full stack engineer to join their team. Python experience is
 required with JavaScript, Postgres and web stack experience strongly desired.
-
-<!-- TODO: check -->
 
 [full-stack-dev]: https://shopventory.com/careers/
 
