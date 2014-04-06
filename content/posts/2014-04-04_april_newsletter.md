@@ -41,7 +41,7 @@ with other developers. Beginners and beyond are always welcome.
 
 [Monthly meetup][monthly-meetup] (meetup.com) <br />
 Our regular monthly meetup will be held at the Ansir Center on April 24
-at 7pm. Young will have be presenting on IPython 2.0.
+at 7pm. Young will be presenting on IPython 2.0.
 
 [monthly-meetup]: http://www.meetup.com/pythonsd/events/163679382/
 
