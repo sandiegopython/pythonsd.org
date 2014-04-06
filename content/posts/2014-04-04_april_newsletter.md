@@ -28,9 +28,13 @@ San Diego Python if you're going.
 
 
 [Saturday study group][saturday-meetup] (meetup.com) <br />
-Carol is starting a Saturday study group (starting today!) that focuses on
-learning Python in a collaborative environment. The topics of the week will
-be Pelican and Flask.
+Carol and San Diego Python members started a Saturday study group that focuses
+on learning Python in a collaborative environment. The group is informal and a
+place for members to learn Python, explore web development and scientific
+computing packages and tools. Each week has a suggested topic for discussion.
+This week's topic will be web development with Flask and Pelican. Feel free to
+join us if you are interested in the discussion topic or want to collaborate
+with other developers. Beginners and beyond are always welcome.
 
 [saturday-meetup]: http://www.meetup.com/pythonsd/events/175274772/
 
