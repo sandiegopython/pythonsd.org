@@ -5,7 +5,7 @@ Slug: april-newsletter-2014
 Author: David Fischer
 
 
-Local sun-loving-in-winter pythoneering individuals,
+Local Pythoneers,
 
 Amaziningly, we have one speaker already lined up for this month's San Diego
 Python [monthly meetup][monthly-meetup]. However, if you'd be willing to give
@@ -18,15 +18,6 @@ know.
 Upcoming events
 ---------------
 
-[Pycon US][pycon-us] (pycon.org) <br />
-Pycon US, the largest Python interest conference, is coming up
-(counter-intuitively) in Montréal on April 11-13. Hopefully you've already
-booked your tickets and hotel if you're going. Don't forget to represent
-San Diego Python if you're going.
-
-[pycon-us]: https://us.pycon.org/2014/
-
-
 [Saturday study group][saturday-meetup] (meetup.com) <br />
 Carol and San Diego Python members started a Saturday study group that focuses
 on learning Python in a collaborative environment. The group is informal and a
@@ -36,7 +27,7 @@ This week's topic will be web development with Flask and Pelican. Feel free to
 join us if you are interested in the discussion topic or want to collaborate
 with other developers. Beginners and beyond are always welcome.
 
-[saturday-meetup]: http://www.meetup.com/pythonsd/events/175274772/
+[saturday-meetup]: http://www.meetup.com/pythonsd/events/175885322
 
 
 [Monthly meetup][monthly-meetup] (meetup.com) <br />
@@ -54,14 +45,6 @@ Scientific Research Corporation is looking for a network application developer
 familiar with databases and backend web development.
 
 [netapp-developer]: https://www2.apply2jobs.com/scires/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=5476&CurrentPage=1
-
-
-[Full stack software engineer][full-stack-dev] (shopventory.com) <br />
-Shopventory, a local startup developing software to help small business owners,
-is looking for a full stack engineer to join their team. Python experience is
-required with JavaScript, Postgres and web stack experience strongly desired.
-
-[full-stack-dev]: https://shopventory.com/careers/
 
 
 [Software engineer][software-engineer] (brightscope.com) <br />
