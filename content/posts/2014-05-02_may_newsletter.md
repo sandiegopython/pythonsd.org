@@ -34,6 +34,13 @@ in a collaborative environment.
 [saturday-meetup]: http://www.meetup.com/pythonsd/events/175885382/
 
 
+[San Diego Python monthly meetup][monthly-meetup] (meetup.com) <br />
+Our regular monthly meetup will be held at the Ansir Innovation Center on
+Thursday May 22. The speaker(s) haven't yet been finalized.
+
+[monthly-meetup]: http://www.meetup.com/pythonsd/events/163679432/
+
+
 Jobs
 ----
 
