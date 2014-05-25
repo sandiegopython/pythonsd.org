@@ -6,5 +6,12 @@
     {% if PDF_PROCESSOR %}<a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">get
     the pdf</a>{% endif %}
     {{ page.content }}
+    {% if page.tag_index %}
+        {% for tag, articles in tags %}
+            {% if tag==page.tag_index %}
+                {% include "index_content.html" %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
 </section>
 {% endblock %}
