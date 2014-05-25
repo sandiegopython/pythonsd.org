@@ -82,30 +82,10 @@ There are great videos for both Python novices as well as experts.
 Past San Diego Python workshops
 -------------------------------
 
-We host a number of workshops throughout the year and often they are
-sponsored by the [Python Software Foundation](http://www.python.org/psf/)
-or local companies such as
-[Brightscope](http://www.brightscope.com/),
-[Cuker Interactive](http://www.cukerinteractive.com/) or
-[Qualcomm](http://qualcomm.com).
+Our interactive [Django TDD workshop material][django tdd] is a good extension to the [official Django tutorial][django tutorial].
 
-* Intro to Python - we hold this workshop periodically to get people
- started on the Python programming language. We held one in
- [October 2012](http://www.meetup.com/pythonsd/events/79563702/) and
- in [January 2013](http://pythonsd.org/january-2013-intro-to-python.html)
-* Web programming - we held a couple different workshops focusing on
- web programming including Django Day in
- [February 2013](http://pythonsd.org/february-2013-django-day.html),
- Intro to Django in
- [November 2012](http://www.meetup.com/pythonsd/events/83842622/) and a
- Test-Driven Django Development Workshop in
- [November 2013](http://pythonsd.org/november-2013-django-tdd-workshop.html)
-* Data analysis - we held a data analysis workshop in
- [April 2013](http://pythonsd.org/april-2013-data-analysis.html)
-
-If there is something in particular you would like to see, feel free
-to mention it to the
-[San Diego Python organizers](http://www.meetup.com/pythonsd/suggestion/)
+[django tdd]: http://test-driven-django-development.readthedocs.org/
+[django tutorial]: https://docs.djangoproject.com/en/1.6/intro/ 
 
 
 Where to get help locally
