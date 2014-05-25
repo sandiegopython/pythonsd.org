@@ -1,22 +1,14 @@
 Title: Getting started
 
-## New to Python
+## New to Python?
 
-If you are new to Python or new to San Diego Python, you have come to the
-right place! This is a guide written to help people learn Python, learn
-about the larger Python community and to learn about the local Python
-community.
+This guide will help you learn about Python, the larger Python community, and
+our local Python community.
 
-Some people can learn a new programming language by simply reading online
-guides. Other folks find that classes or books work best for them. To help
-bootstrap the learning process, the San Diego Python group periodically
-hosts workshops on various topics such as Python for beginners, Python for
-web programmers or Python for data analysis. There is plenty of material out
-on the wider internet but there is also more local people who can give
-some guidance as well.
+Lots of free learning material can be found online, but there are also local
+Python users who can give guidance as well.
 
-If you haven't done so already, join the
-[San Diego Python group](http://www.meetup.com/pythonsd/)!
+If you haven't done so already, join the [San Diego Python group](http://www.meetup.com/pythonsd/)!
 
 
 #### Online guides
@@ -75,6 +67,10 @@ There are other more topic specific books including:
 
 
 #### Past San Diego Python workshops
+
+To help bootstrap the learning process, the San Diego Python group periodically
+hosts workshops on various topics such as Python for beginners, Python for web
+programmers or Python for data analysis.
 
 Our interactive [Django TDD workshop material][django tdd] is a good extension to the [official Django tutorial][django tutorial].
 
