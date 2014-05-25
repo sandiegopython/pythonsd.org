@@ -33,11 +33,11 @@ We hold this workshop periodically to get people started on the Python programmi
 
 ##### January 2013
 
-[Blog post](http://pythonsd.org/january-2013-intro-to-python.html)
+[Blog post](|filename|/posts/2013-01-19_intro-to-python.md)
 
 ##### October 2012
 
- [Event page](http://www.meetup.com/pythonsd/events/79563702/) and
+[Event page](http://www.meetup.com/pythonsd/events/79563702/)
 
 ### Web Programming
 
@@ -45,15 +45,15 @@ We have held a couple different workshops focusing on web programming
 
 ##### March 2014: Test-Driven Django Development
 
-[Blog post](http://www.meetup.com/pythonsd/events/164679962/)
+[Event page](http://www.meetup.com/pythonsd/events/164679962/)
 
 ##### November 2013: Test-Driven Django Development
 
-[Blog post](http://pythonsd.org/november-2013-django-tdd-workshop.html)
+[Blog post](|filename|/posts/2013-11-05_django-tdd-workshop.md)
 
 ##### February 2013: Django Day
 
-[Blog post](http://pythonsd.org/february-2013-django-day.html)
+[Blog post](|filename|/posts/2013-02-23_django-day.md)
 
 ##### November 2012: Intro to Django
 
@@ -63,7 +63,7 @@ We have held a couple different workshops focusing on web programming
 
 ##### April 2013
 
-[Blog post](http://pythonsd.org/april-2013-data-analysis.html)
+[Blog post](|filename|/posts/2013-04-20_data-analysis.md)
 
 
 [django tdd: latest]: http://test-driven-django-development.readthedocs.org/
