@@ -97,47 +97,43 @@ group. There is almost always somebody in the chatroom although they
 may be away or sleeping.
 
 
-## Common uses of Python
+## Uses for Python
 
-In reality, pretty much anything can be built with Python. However, there
-are very large Python communities around certain aspects of software.
+Pretty much anything can be built with Python. However, some uses are more popular than others.
 
 
 #### Data analysis and scientific programming
 
-San Diego has a lot of biotech companies, labs and other science and math
-heavy industries. Many people are exposed to Python through some of the
-big scientific Python packages (like NumPy or SciPy) or through one of
-scientific Python distributions ([enthought](https://www.enthought.com/)
-sponsored us once).
+San Diego has many science and math heavy industries such as biotech. Many
+people are exposed to Python through scientific or numeric Python packages
+(e.g. [NumPy][] or [SciPy][]) or through one of the scientific Python
+distributions ([enthought][] sponsored us once).
 
-There is more detail about common packages in the
-[Hitchhiker's guide](http://docs.python-guide.org/en/latest/scenarios/scientific/). Locally, there are a few members who specialize in scientific
-computing and we have held workshops on data analysis.
+The [Hitchhiker's guide][hitchhiker science] contains more details about common data analysis and scientific computing packages.
+
+The San Diego Python meetup held a data analysis workshop in the past.
+
+[numpy]: http://www.numpy.org/
+[scipy]: http://www.scipy.org/
+[enthought]: (https://www.enthought.com/)
+[hitchhiker science]: http://docs.python-guide.org/en/latest/scenarios/scientific/
 
 
 #### Web programming
 
 Python is a very popular language for building dynamic websites. There is
-more detail in the
-[Hitchhiker's guide](http://docs.python-guide.org/en/latest/scenarios/web/).
+more detail in the [Hitchhiker's guide][hitchhiker web].
 
-While this site is not the most dynamic, it too is built in Python. A number
-of the San Diego Python organizers come from this background so feel free
-to ask when you have questions or concerns.
+The static website you are currently reading was also produced using Python.
+
+[hitchhiker web]: http://docs.python-guide.org/en/latest/scenarios/web/
 
 
-## Local companies using Python
+#### Local companies using Python
 
-You need go no further than our [sponsors](http://pythonsd.org) to see
-local companies using Python, but here is some more details:
-
-* Qualcomm - Qualcomm uses Python for test automation, data analysis
- and prototyping.
-* Cuker Interactive - Cuker is a full service web design and marketing
- strategy company with a content management system built with Python.
-* Brightscope - Brightscope is a financial information company that does
- some data crunching and built its website with Python.
+* Qualcomm - using Python for test automation, data analysis and prototyping
+* Cuker Interactive - web design and marketing company with a Python-powered CMS solution
+* Brightscope - financial information company using Python for data crunching and web development
 
 
 ## This guide
