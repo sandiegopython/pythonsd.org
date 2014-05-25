@@ -1,7 +1,6 @@
 Title: Getting started
 
-New to Python
-=============
+## New to Python
 
 If you are new to Python or new to San Diego Python, you have come to the
 right place! This is a guide written to help people learn Python, learn
@@ -20,8 +19,7 @@ If you haven't done so already, join the
 [San Diego Python group](http://www.meetup.com/pythonsd/)!
 
 
-Online guides
--------------
+#### Online guides
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/) - one of the best guides out there. It covers everything from installation to common modules and writing great code. It is highly recommended for novices as
  well as advanced Pythonistas.
@@ -38,8 +36,7 @@ The Python guide has a whole section on
 as well.
 
 
-Online classes
---------------
+#### Online classes
 
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/) - this is
  the course (videos and PDF) that goes along with the online guide. Take
@@ -51,8 +48,7 @@ Online classes
  also has a number of courses.
 
 
-Online Videos
--------------
+#### Online Videos
 
 There are great videos for both Python novices as well as experts.
 
@@ -63,8 +59,7 @@ There are great videos for both Python novices as well as experts.
  background who are looking to learn Django.
 
 
-Books
------
+#### Books
 
 Other than Learn Python the Hard Way (which is arguably a book) probably
 the most well known Python books are:
@@ -79,8 +74,7 @@ There are other more topic specific books including:
 * Python Standard Library by Example by Doug Hellman
 
 
-Past San Diego Python workshops
--------------------------------
+#### Past San Diego Python workshops
 
 Our interactive [Django TDD workshop material][django tdd] is a good extension to the [official Django tutorial][django tutorial].
 
@@ -88,8 +82,7 @@ Our interactive [Django TDD workshop material][django tdd] is a good extension t
 [django tutorial]: https://docs.djangoproject.com/en/1.6/intro/ 
 
 
-Where to get help locally
--------------------------
+#### Where to get help locally
 
 In addition to showing up at our monthly Meetups and asking a question,
 you can start a thread on our
@@ -108,15 +101,13 @@ group. There is almost always somebody in the chatroom although they
 may be away or sleeping.
 
 
-Common uses of Python
-=====================
+## Common uses of Python
 
 In reality, pretty much anything can be built with Python. However, there
 are very large Python communities around certain aspects of software.
 
 
-Data analysis and scientific programming
-----------------------------------------
+#### Data analysis and scientific programming
 
 San Diego has a lot of biotech companies, labs and other science and math
 heavy industries. Many people are exposed to Python through some of the
@@ -129,8 +120,7 @@ There is more detail about common packages in the
 computing and we have held workshops on data analysis.
 
 
-Web programming
----------------
+#### Web programming
 
 Python is a very popular language for building dynamic websites. There is
 more detail in the
@@ -141,8 +131,7 @@ of the San Diego Python organizers come from this background so feel free
 to ask when you have questions or concerns.
 
 
-Local companies using Python
-============================
+## Local companies using Python
 
 You need go no further than our [sponsors](http://pythonsd.org) to see
 local companies using Python, but here is some more details:
@@ -155,16 +144,14 @@ local companies using Python, but here is some more details:
  some data crunching and built its website with Python.
 
 
-This guide
-==========
+## This guide
 
 The goal of this guide is to help people in the San Diego Python group
 familiarize themselves with the Python language, larger Python community,
 and local Python community.
 
 
-Contributing
-------------
+#### Contributing
 
 The guide is intended to be a "living guide" meaning that it will change
 over time and receive updates when better information becomes available.
