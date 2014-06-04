@@ -1,27 +1,17 @@
 Title: Getting started
 
-New to Python
-=============
+## New to Python?
 
-If you are new to Python or new to San Diego Python, you have come to the
-right place! This is a guide written to help people learn Python, learn
-about the larger Python community and to learn about the local Python
-community.
+This guide will help you learn about Python, the larger Python community, and
+our local Python community.
 
-Some people can learn a new programming language by simply reading online
-guides. Other folks find that classes or books work best for them. To help
-bootstrap the learning process, the San Diego Python group periodically
-hosts workshops on various topics such as Python for beginners, Python for
-web programmers or Python for data analysis. There is plenty of material out
-on the wider internet but there is also more local people who can give
-some guidance as well.
+Lots of free learning material can be found online, but there are also local
+Python users who can give guidance as well.
 
-If you haven't done so already, join the
-[San Diego Python group](http://www.meetup.com/pythonsd/)!
+If you haven't done so already, join the [San Diego Python group](http://www.meetup.com/pythonsd/)!
 
 
-Online guides
--------------
+#### Online guides
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/) - one of the best guides out there. It covers everything from installation to common modules and writing great code. It is highly recommended for novices as
  well as advanced Pythonistas.
@@ -38,8 +28,7 @@ The Python guide has a whole section on
 as well.
 
 
-Online classes
---------------
+#### Online classes
 
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/) - this is
  the course (videos and PDF) that goes along with the online guide. Take
@@ -51,8 +40,18 @@ Online classes
  also has a number of courses.
 
 
-Books
------
+#### Online Videos
+
+There are great videos for both Python novices as well as experts.
+
+* [PyVideos](http://pyvideo.org/) - The big Python conferences such as
+ PyCon and Djangocon are recorded and the videos are made freely available.
+* [Getting started with Django](http://gettingstartedwithdjango.com/) -
+ This kickstarter funded video series is for people with some Python
+ background who are looking to learn Django.
+
+
+#### Books
 
 Other than Learn Python the Hard Way (which is arguably a book) probably
 the most well known Python books are:
@@ -67,49 +66,19 @@ There are other more topic specific books including:
 * Python Standard Library by Example by Doug Hellman
 
 
-Videos
-------
+#### Past San Diego Python workshops
 
-There are great videos for both Python novices as well as experts.
+To help bootstrap the learning process, the San Diego Python group periodically
+hosts workshops on various topics such as Python for beginners, Python for web
+programmers or Python for data analysis.
 
-* [PyVideos](http://pyvideo.org/) - The big Python conferences such as
- PyCon and Djangocon are recorded and the videos are made freely available.
-* [Getting started with Django](http://gettingstartedwithdjango.com/) -
- This kickstarter funded video series is for people with some Python
- background who are looking to learn Django.
+Our interactive [Django TDD workshop material][django tdd] is a good extension to the [official Django tutorial][django tutorial].
 
-
-Past San Diego Python workshops
--------------------------------
-
-We host a number of workshops throughout the year and often they are
-sponsored by the [Python Software Foundation](http://www.python.org/psf/)
-or local companies such as
-[Brightscope](http://www.brightscope.com/),
-[Cuker Interactive](http://www.cukerinteractive.com/) or
-[Qualcomm](http://qualcomm.com).
-
-* Intro to Python - we hold this workshop periodically to get people
- started on the Python programming language. We held one in
- [October 2012](http://www.meetup.com/pythonsd/events/79563702/) and
- in [January 2013](http://pythonsd.org/january-2013-intro-to-python.html)
-* Web programming - we held a couple different workshops focusing on
- web programming including Django Day in
- [February 2013](http://pythonsd.org/february-2013-django-day.html),
- Intro to Django in
- [November 2012](http://www.meetup.com/pythonsd/events/83842622/) and a
- Test-Driven Django Development Workshop in
- [November 2013](http://pythonsd.org/november-2013-django-tdd-workshop.html)
-* Data analysis - we held a data analysis workshop in
- [April 2013](http://pythonsd.org/april-2013-data-analysis.html)
-
-If there is something in particular you would like to see, feel free
-to mention it to the
-[San Diego Python organizers](http://www.meetup.com/pythonsd/suggestion/)
+[django tdd]: http://test-driven-django-development.readthedocs.org/
+[django tutorial]: https://docs.djangoproject.com/en/1.6/intro/ 
 
 
-Where to get help locally
--------------------------
+#### Where to get help locally
 
 In addition to showing up at our monthly Meetups and asking a question,
 you can start a thread on our
@@ -128,63 +97,53 @@ group. There is almost always somebody in the chatroom although they
 may be away or sleeping.
 
 
-Common uses of Python
-=====================
+## Uses for Python
 
-In reality, pretty much anything can be built with Python. However, there
-are very large Python communities around certain aspects of software.
+Pretty much anything can be built with Python. However, some uses are more popular than others.
 
 
-Data analysis and scientific programming
-----------------------------------------
+#### Data analysis and scientific programming
 
-San Diego has a lot of biotech companies, labs and other science and math
-heavy industries. Many people are exposed to Python through some of the
-big scientific Python packages (like NumPy or SciPy) or through one of
-scientific Python distributions ([enthought](https://www.enthought.com/)
-sponsored us once).
+San Diego has many science and math heavy industries such as biotech. Many
+people are exposed to Python through scientific or numeric Python packages
+(e.g. [NumPy][] or [SciPy][]) or through one of the scientific Python
+distributions ([enthought][] sponsored us once).
 
-There is more detail about common packages in the
-[Hitchhiker's guide](http://docs.python-guide.org/en/latest/scenarios/scientific/). Locally, there are a few members who specialize in scientific
-computing and we have held workshops on data analysis.
+The [Hitchhiker's guide][hitchhiker science] contains more details about common data analysis and scientific computing packages.
+
+The San Diego Python meetup held a data analysis workshop in the past.
+
+[numpy]: http://www.numpy.org/
+[scipy]: http://www.scipy.org/
+[enthought]: (https://www.enthought.com/)
+[hitchhiker science]: http://docs.python-guide.org/en/latest/scenarios/scientific/
 
 
-Web programming
----------------
+#### Web programming
 
 Python is a very popular language for building dynamic websites. There is
-more detail in the
-[Hitchhiker's guide](http://docs.python-guide.org/en/latest/scenarios/web/).
+more detail in the [Hitchhiker's guide][hitchhiker web].
 
-While this site is not the most dynamic, it too is built in Python. A number
-of the San Diego Python organizers come from this background so feel free
-to ask when you have questions or concerns.
+The static website you are currently reading was also produced using Python.
 
-
-Local companies using Python
-============================
-
-You need go no further than our [sponsors](http://pythonsd.org) to see
-local companies using Python, but here is some more details:
-
-* Qualcomm - Qualcomm uses Python for test automation, data analysis
- and prototyping.
-* Cuker Interactive - Cuker is a full service web design and marketing
- strategy company with a content management system built with Python.
-* Brightscope - Brightscope is a financial information company that does
- some data crunching and built its website with Python.
+[hitchhiker web]: http://docs.python-guide.org/en/latest/scenarios/web/
 
 
-This guide
-==========
+#### Local companies using Python
+
+* Qualcomm - using Python for test automation, data analysis and prototyping
+* Cuker Interactive - web design and marketing company with a Python-powered CMS solution
+* Brightscope - financial information company using Python for data crunching and web development
+
+
+## This guide
 
 The goal of this guide is to help people in the San Diego Python group
 familiarize themselves with the Python language, larger Python community,
 and local Python community.
 
 
-Contributing
-------------
+#### Contributing
 
 The guide is intended to be a "living guide" meaning that it will change
 over time and receive updates when better information becomes available.
