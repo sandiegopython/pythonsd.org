@@ -6,5 +6,15 @@
     {% if PDF_PROCESSOR %}<a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">get
     the pdf</a>{% endif %}
     {{ page.content }}
+    {% if page.tag_index %}
+        {% for tag, articles in tags %}
+            {% if tag==page.tag_index %}
+                {% for article in articles %}
+                    <a href="{{ SITEURL }}/{{ article.url }}"><h4>{{ article.date.strftime('%B %Y') }}: {{ article.title }}</h4></a>
+                    <p>{{ article.short_description }}</p>
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
 </section>
 {% endblock %}
