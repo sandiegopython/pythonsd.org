@@ -49,7 +49,7 @@ developer.
 
 [Python robotics developer][robotics-developer] (braincorporation.com) <br />
 Brain Corporation is a Sorrento Valley based startup building robots that
-learn by training like an animal. They are looking for talented software
+have animal-like learning. They are looking for talented software
 engineers. Most of their code base is in python. They have free Apple gadgets,
 breakfasts and lunches and a fun, relaxed environment. Feel free to contact
 [Jonathan][jonathans-email] directly.
