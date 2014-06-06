@@ -84,6 +84,16 @@ a local users group, feel free to borrow liberally from our materials.
 [sd-python-workshops]: http://pythonsd.org/pages/workshops.html
 
 
+[May meetup videos][may-meetup-videos] (youtube.com) <br />
+The audio is not great, but last month's presentations by Daniel Greenfeld
+and Trey Hunner are up on youtube. You can also check out
+[Danny's slides][danny-slides] and [Trey's slides][trey-slides].
+
+[may-meetup-videos]: https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg
+[danny-slides]: http://pydanny.com/slides/webhooks/
+[trey-slides]: https://github.com/pythonsd/presentations/tree/master/tricks
+
+
 Notes
 -----
 
