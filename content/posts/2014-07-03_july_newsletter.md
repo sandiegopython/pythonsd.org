@@ -5,12 +5,12 @@ Slug: july-newsletter-2014
 Author: David Fischer
 
 
-Hola Pythoneers,
+Happy Independence Day Pythonitas,
 
 Did you know that San Diego Python has an IRC channel? There are some nice
 folks happy to help or just chat in [#sandiegopython][irc] on Freenode.
 
-[irc]: irc://irc.freenode.net/sandiegopython
+[irc]: http://webchat.freenode.net/?channels=sandiegopython
 
 
 Upcoming events
@@ -46,13 +46,13 @@ building on Angular.js, CoffeeScript, Python, Django, Force.com and AWS.
 [dealstruck]: https://www.dealstruck.com/
 
 
-[Python & Django developer][python-django] (example.com) <br />
+[Python & Django developer][python-django] (phobio.com) <br />
 Phobio, a local company specializing in mobile device buyback, is looking for
 talented Python and Django developers for their team. They are looking for
 developers with experience across a full web stack including Linux sysadmin,
 HTML/CSS/JS, and Python/Django.
 
-[python-django]: http://example.com
+[python-django]: https://phobio.com
 
 
 [Senior Django developer][sr-django] (djangogigs.com) <br />
