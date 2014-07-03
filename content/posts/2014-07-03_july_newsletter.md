@@ -46,6 +46,13 @@ building on Angular.js, CoffeeScript, Python, Django, Force.com and AWS.
 [dealstruck]: https://www.dealstruck.com/
 
 
+[Rock Star Django developer][coachlogix] (tackk.com) <br />
+CoachLogix, a downtown startup, is looking for a Django rock star familiar
+with REST APIs, Git and AWS to help them build out a cloud platform targeting
+the professional market.
+
+[tackk]: https://tackk.com/ztyf44
+
 [Python & Django developer][python-django] (phobio.com) <br />
 Phobio, a local company specializing in mobile device buyback, is looking for
 talented Python and Django developers for their team. They are looking for
