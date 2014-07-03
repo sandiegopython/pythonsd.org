@@ -5,7 +5,7 @@ Slug: july-newsletter-2014
 Author: David Fischer
 
 
-Happy Independence Day Pythonitas,
+Happy Independence Day Pythonistas,
 
 Did you know that San Diego Python has an IRC channel? There are some nice
 folks happy to help or just chat in [#sandiegopython][irc] on Freenode.
