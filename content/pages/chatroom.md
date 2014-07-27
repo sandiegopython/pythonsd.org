@@ -21,6 +21,13 @@ You'll need to choose a unique username and then you'll be put in the #sandiegop
 - [Limechat][] (Mac)
 - [mIRC][] (Windows)
 
+When setting up your IRC client:
+
+1. Select the FreeNode server (or enter irc.freenode.net)
+2. Join the channel #sandiegopython
+
+Alternatively click this link after installing your IRC client: [irc://irc.freenode.net/sandiegopython](irc://irc.freenode.net/sandiegopython)
+
 [limechat]: http://limechat.net/mac/
 [mirc]: http://www.mirc.com/
 [xchat]: http://xchat.org/
