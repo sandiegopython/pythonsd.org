@@ -1,2 +1,3 @@
 {% extends "index.html" %}
+{% block windowtitle %}{{ author }} - {{ super() }}{% endblock %}
 {% block title %}{{ SITENAME }} <small>{{ author }}</small>{% endblock %}

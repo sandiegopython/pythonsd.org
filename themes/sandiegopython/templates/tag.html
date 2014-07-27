@@ -1,2 +1,3 @@
 {% extends "index.html" %}
+{% block windowtitle %}{{ tag }} - {{ super() }}{% endblock %}
 {% block title %}{{ SITENAME }} <small>{{ tag }}</small>{% endblock %}
