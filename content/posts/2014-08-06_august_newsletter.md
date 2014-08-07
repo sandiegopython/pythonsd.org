@@ -100,16 +100,18 @@ Notes
 -----
 
 
-Would you like to see your job opening posted here? [Send it to us][send-it].
-It's free. However, if you recruit some top notch folks as a result and you
-are feeling particularly generous, the Python Software Foundation
-[accepts donations][accepts-donations] on our behalf but there is no
-obligation. These donations entirely go toward paying for workshops such as
-March's [Django TDD workshop][django-workshop] and September's Intro to Python
-workshop.
+Would you like to see your job opening on our newsletter that reaches over
+600 local Python developers? [Send it to us][send-it]. The Python Software
+Foundation [accepts donations][accepts-donations] on our behalf but there is no
+obligation to donate in order to highlight your posting here. Five dollars
+helps and $20 helps a lot. These donations entirely go toward paying for
+workshops such as March's [Django TDD workshop][django-workshop] and
+September's Intro to Python workshop. Also, we are on [gittip][] if you're
+into that sort of thing.
 
 [send-it]: mailto:sandiegopython@gmail.com
 [accepts-donations]: https://psfmember.org/civicrm/contribute/transact?reset=1&id=9
+[gittip]: https://www.gittip.com/sandiegopython/
 [django-workshop]: http://www.meetup.com/pythonsd/events/164679962/
 
 
