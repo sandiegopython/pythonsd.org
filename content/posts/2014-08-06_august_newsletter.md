@@ -104,15 +104,16 @@ Would you like to see your job opening on our newsletter that reaches over
 600 local Python developers? [Send it to us][send-it]. The Python Software
 Foundation [accepts donations][accepts-donations] on our behalf but there is no
 obligation to donate in order to highlight your posting here. Five dollars
-helps and $20 helps a lot. These donations entirely go toward paying for
+helps and $50 helps a lot. These donations entirely go toward paying for
 workshops such as March's [Django TDD workshop][django-workshop] and
-September's Intro to Python workshop. Also, we are on [gittip][] if you're
-into that sort of thing.
+September's [Intro to Python workshop][intro-workshop]. Also, we are on
+[gittip][] if you're into that sort of thing.
 
 [send-it]: mailto:sandiegopython@gmail.com
 [accepts-donations]: https://psfmember.org/civicrm/contribute/transact?reset=1&id=9
 [gittip]: https://www.gittip.com/sandiegopython/
 [django-workshop]: http://www.meetup.com/pythonsd/events/164679962/
+[intro-workshop]: http://www.meetup.com/pythonsd/events/199295402/
 
 
 We have only ONE remaining signed copy of [Two Scoops of Django][two-scoops].
