@@ -22,11 +22,12 @@ together in a collaborative environment.
 
 [San Diego Python monthly meetup][monthly-meetup] (meetup.com) <br />
 Our regular monthly meetup will be held at the Ansir Innovation Center on
-Thursday August 28. We are doing 5 minute lightning talks. There are talks
+Thursday August 28. We are doing 5 minute lightning talks. There are two talks
 lined up on PyCon 2015 and comparing Numba, LLVM and Julia. If you are
-interested in speaking, please contact us.
+interested in speaking, please [contact us][contact-us].
 
 [monthly-meetup]: http://www.meetup.com/pythonsd/events/197325952/
+[contact-us]: mailto:sandiegopython@gmail.com
 
 
 [Intro to Python workshop][meetup-workshop] (meetup.com) <br />
@@ -35,7 +36,7 @@ September 20 open to folks of all Python skill levels. More details
 will be available in the coming weeks. For information on past PythonSD
 workshops, see [our website][workshops].
 
-[meetup-workshop]: TODO.COM
+[meetup-workshop]: http://www.meetup.com/pythonsd/events/199295402/
 [workshops]: http://pythonsd.org/pages/workshops.html
 
 
@@ -49,7 +50,7 @@ been awarded a one year grant to develop a faster prototype of their
 automated data collection software, and are looking for an additional
 software developer to help with this task. The project will largely be
 greenfield, but strong experience with Python will be valuable for making
-best use of the [existing][existing] [codebase][codebase]. This project
+best use of the [existing][] [codebase][]. This project
 provides an opportunity to work on hardware interaction, networked
 application architecture, image processing, and computer vision- so if
 these topics interest you, please apply!
@@ -118,7 +119,7 @@ A copy could be yours (for cheaper than Amazon)!
 [two-scoops]: http://twoscoopspress.org/
 
 
-Did you know that San Diego Python has an IRC channel? There are some nice
+Did you know that San Diego Python has a chat room? There are some nice
 folks happy to help or just chat in [#sandiegopython][irc] on Freenode.
 
-[irc]: http://webchat.freenode.net/?channels=sandiegopython
+[irc]: http://pythonsd.org/pages/chat-room.html
