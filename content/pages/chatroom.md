@@ -22,9 +22,9 @@ Visit the Web Client:
 
 ### Installing an IRC client
 
-- [XChat](http://limechat.net/mac/) (Linux, Windows, Mac)
-- [Limechat](http://www.mirc.com/) (Mac)
-- [mIRC](http://xchat.org/) (Windows)
+- [XChat](http://xchat.org/) (Linux, Windows, Mac)
+- [Limechat](http://limechat.net/mac/) (Mac)
+- [mIRC](http://www.mirc.com/) (Windows)
 
 When setting up your IRC client:
 
