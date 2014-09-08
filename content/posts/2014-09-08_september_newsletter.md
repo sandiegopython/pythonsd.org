@@ -52,13 +52,22 @@ interested in speaking, please [contact us][contact-us].
 Jobs
 ----
 
-
 [Software engineer][software-engineer] (brightscope.com) <br />
 BrightScope, a local financial information company in UTC, is looking for
 exceptional engineers to expand their development team. They are big Django
 users and big San Diego Python supporters.
 
 [software-engineer]: http://www.brightscope.com/about/careers/#job_Senior_Software_Engineer
+
+California Global Innovation Exchange, Inc. (CAGIX) is a Los Angeles based
+company building a funding platform focused on raising funds for Cleantech
+focused companies. We're looking to hire a full-time engineer located on the
+west-coast, preferably between San Diego and Los Angeles area. Must have
+experience with Python web development, preferably Django.  Experience
+working with Linux, Apache, and MySQL also desirable. Contact
+jobs@cagix.com if interested.
+
+ 
 
 
 News
