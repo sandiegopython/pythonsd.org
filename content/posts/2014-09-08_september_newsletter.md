@@ -30,7 +30,7 @@ workshops, see [our website][workshops].
 
 
 [Saturday study group][saturday-meetup] (meetup.com) <br />
-San Diego PyLadies and SD Python and  are continuing the Saturday study group
+San Diego PyLadies and SD Python are continuing the Saturday study group
 at Pangea cafe. The goal of the Saturday study group is to learn Python
 together in a collaborative environment. Thanks to all that have been
 helping out and participating. It's been fun and helpful.
