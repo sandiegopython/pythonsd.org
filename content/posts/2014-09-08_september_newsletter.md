@@ -59,13 +59,14 @@ users and big San Diego Python supporters.
 
 [software-engineer]: http://www.brightscope.com/about/careers/#job_Senior_Software_Engineer
 
+[Python developer](jobs@cagix.com) (email) <br />
+
 California Global Innovation Exchange, Inc. (CAGIX) is a Los Angeles based
 company building a funding platform focused on raising funds for Cleantech
 focused companies. We're looking to hire a full-time engineer located on the
 west-coast, preferably between San Diego and Los Angeles area. Must have
 experience with Python web development, preferably Django.  Experience
-working with Linux, Apache, and MySQL also desirable. Contact
-jobs@cagix.com if interested.
+working with Linux, Apache, and MySQL also desirable.
 
  
 
