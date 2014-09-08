@@ -7,9 +7,10 @@ Author: David Fischer
 
 Howdy Pythonistas,
 
-[JetBrains][], the maker of PyCharm, has sponsored our meetup such that
-we can give away one copy of PyCharm professional to one of our members
-at each meetup with thirty or more people.
+We can now raffle off licenses of PyCharm Professional at many of our
+meetups! [JetBrains][], the maker of PyCharm is generously sponsoring our
+group through awarding a license for each meetup with more than 30
+attendees.
 
 [Jetbrains]: http://www.jetbrains.com/pycharm/
 
