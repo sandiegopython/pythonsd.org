@@ -18,19 +18,22 @@ Upcoming events
 ---------------
 
 [Intro to Python workshop][meetup-workshop] (meetup.com) <br />
-San Diego Python is planning an Intro to Python workshop on Saturday
-September 20 (that's less than 2 weeks away) open to folks of all Python
-skill levels. For information on past PythonSD workshops, see
-[our website][workshops].
+San Diego Python and San Diego PyLadies are planning an Intro to Python
+workshop on Saturday September 20 (that's less than 2 weeks away) open to
+folks of all Python skill levels. We will be hosting a few special guests
+at this [OpenHatch]-affiliated event. For information on past PythonSD
+workshops, see [our website][workshops].
 
 [meetup-workshop]: http://www.meetup.com/pythonsd/events/199295402/
 [workshops]: http://pythonsd.org/pages/workshops.html
+[OpenHatch]: https://openhatch.org
 
 
 [Saturday study group][saturday-meetup] (meetup.com) <br />
 San Diego PyLadies and SD Python and  are continuing the Saturday study group
 at Pangea cafe. The goal of the Saturday study group is to learn Python
-together in a collaborative environment.
+together in a collaborative environment. Thanks to all that have been
+helping out and participating. It's been fun and helpful.
 
 [saturday-meetup]: http://www.meetup.com/pythonsd/events/203385952/
 
@@ -61,7 +64,7 @@ News
 ----
 
 [Presentation videos][presentation-videos] (youtube.com) <br />
-Presentations from the July Monthly meetup are available on San Diego
+Presentations from the July and August Monthly meetups are available on San Diego
 Python's YouTube channel. The presentation materials for our meetups are
 available in our [presentations repository][presentations].
 
