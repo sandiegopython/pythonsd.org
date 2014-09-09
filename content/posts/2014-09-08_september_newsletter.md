@@ -48,6 +48,13 @@ interested in speaking, please [contact us][contact-us].
 [contact-us]: mailto:sandiegopython@gmail.com
 
 
+[Django BarCamp][django-barcamp] (eventbrite.com) <br />
+Django BarCamp is a user generated conference for Django enthusiasts. The
+conference is in San Francisco but the price is definitely right and all
+proceeds go the Django Software Foundation.
+
+[django-barcamp]: https://www.eventbrite.com/e/barcamp-django-sf-tickets-12478998019
+
 
 Jobs
 ----
@@ -59,16 +66,13 @@ users and big San Diego Python supporters.
 
 [software-engineer]: http://www.brightscope.com/about/careers/#job_Senior_Software_Engineer
 
-[Python developer](jobs@cagix.com) (email) <br />
-
+[Python developer](mailto:jobs@cagix.com) (email) <br />
 California Global Innovation Exchange, Inc. (CAGIX) is a Los Angeles based
 company building a funding platform focused on raising funds for Cleantech
 focused companies. We're looking to hire a full-time engineer located on the
 west-coast, preferably between San Diego and Los Angeles area. Must have
 experience with Python web development, preferably Django.  Experience
 working with Linux, Apache, and MySQL also desirable.
-
- 
 
 
 News
