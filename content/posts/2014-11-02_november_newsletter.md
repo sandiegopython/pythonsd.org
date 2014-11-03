@@ -13,8 +13,8 @@ First of all, a bit of housekeeping is in order. There will be a few changes
 to the schedule of the San Diego Python monthly meetup for the next two months.
 Our usual 4th Thursday schedule would mean a meetup on Thanksgiving and on
 Christmas. Instead, we will be having our Django One-Day Unconference on
-November 15 and a casual meetup on December 12. Neither of these are at the
-usual spot, so make sure to check meetup.com.
+**November 15** and a casual meetup on **December 12**. Neither of these are
+at the usual spot, so make sure to check meetup.com.
 
 
 Upcoming events
