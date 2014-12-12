@@ -36,6 +36,18 @@ helping out and participating. It's been fun and helpful.
 [saturday-meetup]: http://www.meetup.com/pythonsd/events/218722615/
 
 
+[January Monthly Meetup][january-meetup] (meetup.com) <br />
+For January's monthly meetup, [Continuum Analytics][], the makers of the
+popular scientific Python distribution Anaconda will be presenting.
+[NanoImaging Services][nanoimaging-services] will be hosting and sponsoring
+the meetup which will be at the usual time but not the usual venue.
+
+[january-meetup]: http://www.meetup.com/pythonsd/events/219205663/
+[Continuum Analytics]: http://continuum.io
+[nanoimaging-services]: http://www.nanoimagingservices.com/
+
+
+
 Jobs
 ----
 
