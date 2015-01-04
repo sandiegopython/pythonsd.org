@@ -27,6 +27,14 @@ events and material you get from San Diego Python, please consider a
 Upcoming events
 ---------------
 
+[Data Visualization Presentation][data-viz] (meetup.com) <br />
+Matt Sundquist co-founder at Plotly plot.ly will talk about data
+visualization at the San Diego R users group on next Wednesday the 7th
+from 6 to 9 at the Ansir Center. Plotly is a platform for analyzing data and
+making interactive graphs with Python, matplotlib, R and MATLAB.
+
+[data-viz]: http://www.meetup.com/San-Diego-Data-Science-R-Users-Group/
+
 
 [Saturday study group][saturday-meetup] (meetup.com) <br />
 San Diego PyLadies and SD Python are continuing the Saturday study group
