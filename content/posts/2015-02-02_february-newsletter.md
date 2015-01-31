@@ -37,7 +37,6 @@ comments.
 [contact us]: mailto:sandiegopython-organizers@googlegroups.com
 
 
-
 [Data Science Workshop][] (meetup.com) <br />
 San Diego Python in conjunction with the local [R users group][] and the
 [Regional Data Science Library][] is putting on a data science workshop
