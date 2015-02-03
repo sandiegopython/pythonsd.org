@@ -92,10 +92,10 @@ was sponsored by [NanoImaging Services][].
 
 
 [SoCal Linux Expo][socal-linux] (socallinuxexpo.com) <br />
-SoCal Linux Expo returns to LA on February 19-22. SoCal Linux Expo is the
-largest community run free and open source software (FOSS) conference in
-North America. Tickets are as little as $10 depending on what you'd like to
-see.
+PyLadies San Diego along with the other SoCal PyLadies groups will be hosting
+a booth at SoCal Linux Expo in LA on February 19-22. SoCal Linux Expo is the
+largest community run free and open source software (FOSS) conference in North
+America. Tickets are as little as $10 depending on what you'd like to see.
 
 [socal-linux]: http://www.socallinuxexpo.org/scale/13x
 
