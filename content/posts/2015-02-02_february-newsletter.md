@@ -57,7 +57,7 @@ and their mobile app is written with JavaScript on Titanium.
 [Software developer and craft beer enthusiast]: http://taphunter.workable.com/jobs/31725
 
 
-[Software engineer][software-engineer] (intellesis.com) <br />
+[Software engineer][software-engineer] (intellisis.com) <br />
 Intellisis is looking for you, the agile-loving, curious, technology-obsessed
 Python connoisseur ready to take on new challenges. They're a small company
 near Torrey Pines and are all-in with Python.
