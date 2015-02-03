@@ -38,16 +38,13 @@ comments.
 
 
 [Data Science Workshop][] (meetup.com) <br />
-San Diego Python in conjunction with the local [R users group][] and the
-[Regional Data Science Library][] is putting on a data science workshop
-at SDSU on February 28. There will be Python and R tracks, data challenges
-and a hackathon.
+San Diego Python in conjunction with the [San Diego Data Science and R users group][], [San Diego Machine Learning][], the [San Diego Predictive Analytics Meetup][] and the [Regional Data Science Library][] is putting on a data science workshop at SDSU on February 28. There will be Python and R tutorials, data science demos, machine learning challenges and a data analysis contest.
 
 [Data Science Workshop]: http://www.meetup.com/pythonsd/events/219582270/
-[R users group]: http://www.meetup.com/San-Diego-Data-Science-R-Users-Group/
+[San Diego Data Science and R users group]: http://www.meetup.com/San-Diego-Data-Science-R-Users-Group/
+[San Diego Machine Learning]: http://www.meetup.com/San-Diego-Machine-Learning/
+[San Diego Predictive Analytics Meetup]: http://www.meetup.com/San-Diego-Predictive-Analytics-Meetup/events/
 [Regional Data Science Library]: http://www.meetup.com/San-Diego-Regional-Data-Library/
-
-
 
 Jobs
 ----
