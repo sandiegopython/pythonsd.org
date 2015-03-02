@@ -38,12 +38,12 @@ comments.
 Jobs
 ----
 
-[AWS systems engineer][bs-engineer] (brightscope.com) <br />
+[AWS systems engineer][bs-engineer] (stackoverflow.com) <br />
 BrightScope, a local financial information company in UTC, is looking for
 an exceptional engineer to help with their AWS infrastructure. They are big
 San Diego Python supporters.
 
-[bs-engineer]: http://www.brightscope.com/about/careers/#job_AWS_Systems_Engineer
+[bs-engineer]: https://careers.stackoverflow.com/jobs/81143/aws-system-engineer-brightscope-inc
 
 
 [Software developer and craft beer enthusiast][] (workable.com) <br />
