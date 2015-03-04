@@ -35,6 +35,30 @@ comments.
 [contact us]: mailto:sandiegopython-organizers@googlegroups.com
 
 
+[PyCon 2015][] (pycon.org) <br />
+PyCon 2015 is being held April 8-16 in Montreal. PyCon is the largest Python
+conference and there are a number of local San Diegans headed to the
+conference.
+
+[PyCon 2015]: https://us.pycon.org/2015/
+
+
+[PyData Dallas 2015][] (pydata.org) <br />
+PyData is a community of data analysts and developers who use open source
+Python tools for use with Big Data&#8482;. The conference is being held in
+Dallas April 24-26. The call for papers closes next week.
+
+[PyData Dallas 2015]: http://pydata.org/dal2015/
+
+
+[SciPy 2015][] (scipy.org) <br />
+SciPy's annual conference is being held July 6-12 in Austin. SciPy is a
+community (and a pretty darn good toolkit) dedicated to open source Python
+software for math, science and engineering. The call for papers is open.
+
+[SciPy 2015]: http://www.scipy2015.scipy.org/
+
+
 Jobs
 ----
 
@@ -100,7 +124,7 @@ Notes
 
 
 Would you like to see your job opening on our newsletter that reaches over
-800 local Python developers? First, read our
+900 local Python developers? First, read our
 [job posting guidelines][job-guidelines] and then [send it to us][send-it]
 if you would like it to appear in the newsletter or you can post it
 yourself to our mailing list.
