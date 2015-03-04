@@ -1,5 +1,5 @@
 Title: March Newsletter
-Date: 2015-03-02
+Date: 2015-03-03
 Tags: newsletter
 Slug: march-newsletter-2015
 Author: David Fischer
@@ -44,6 +44,26 @@ an exceptional engineer to help with their AWS infrastructure. They are big
 San Diego Python supporters.
 
 [bs-engineer]: https://careers.stackoverflow.com/jobs/81143/aws-system-engineer-brightscope-inc
+
+
+[Linux Sysadmin][] (maxhire.net) <br />
+Are you a Linux Administrator with strong configuration management experience?
+Eastridge Workforce Solutions, one of the sponsors for our data science
+funconference, has a client committed to being the leading provider of
+advanced patient - caregiver solutions and wireless workflow messaging
+systems for hospitals and other healthcare providers. Must have advanced
+scripting skills with Python, Perl, Ruby or Bash.
+
+[Linux Sysadmin]: http://www.maxhire.net/cp/JobPrintPreview.aspx?jobid=43424
+
+
+[QA Test Analyst][] (maxhire.net) <br />
+Are you a junior to mid-level IT professional eager to take your career
+to the next level? Interested in getting into the automation test arena?
+This is a direct hire QA opportunity where the #1 requirement is strong
+scripting skills in Python, Perl, Ruby, JavaScript or Bash.
+
+[QA Test Analyst]: http://www.maxhire.net/cp/JobPrintPreview.aspx?jobid=43873
 
 
 [Software developer and craft beer enthusiast][] (workable.com) <br />
