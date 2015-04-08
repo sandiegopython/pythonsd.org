@@ -66,7 +66,8 @@ this week.
 DjangoCon will be in Austin this year from September 7-9. Texas is a popular
 place for conferences this year. Financial aid is available and the call for
 proposals is open until May 15. This year DjangoCon is run by a new nonprofit,
-Django Events Foundation North America (DEFNA).
+the Django Events Foundation North America (DEFNA) which means lower prices and
+making the event more accessible to those who need it.
 
 [DjangoCon US]: https://2015.djangocon.us/
 
