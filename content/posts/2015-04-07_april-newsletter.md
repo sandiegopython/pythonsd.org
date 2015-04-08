@@ -62,6 +62,15 @@ this week.
 [SciPy 2015]: http://www.scipy2015.scipy.org/
 
 
+[DjangoCon US][] (djangocon.us) <br />
+DjangoCon will be in Austin this year from September 7-9. Texas is a popular
+place for conferences this year. Financial aid is available and the call for
+proposals is open until May 15. This year DjangoCon is run by a new nonprofit,
+Django Events Foundation North America (DEFNA).
+
+[DjangoCon US]: https://2015.djangocon.us/
+
+
 Jobs
 ----
 
@@ -92,6 +101,13 @@ near Torrey Pines and are all-in with Python.
 
 [software-engineer]: http://www.intellisis.com/jobs.php
 
+
+[Full Stack Developer][full-stack-dev] (brightscope.com) <br />
+Brightscope, a local financial analytics firm and big SD Python supporter is
+looking to hire a full stack Django developer to join their ever growing team.
+They are based in the UTC area.
+
+[full-stack-dev]: http://www.brightscope.com/about/careers/#job_Software_Engineer
 
 Notes
 -----
