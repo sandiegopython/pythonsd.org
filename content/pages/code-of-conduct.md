@@ -1,26 +1,34 @@
 Title: Code of Conduct
 
-The Python community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, we encourage you to follow these guidelines which help steer our interactions and strive to keep Python a positive, successful, and growing community.
+San Diego Python is a community intended for learning, networking, and collaboration and has members with different backgrounds and perspectives from all over the greater San Diego area and beyond.
 
-A member of the Python community is:
+Diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to organizers as well as members.
 
-## Open
+This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
-Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise. We're receptive to constructive comment and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
+This code of conduct applies to all spaces managed by San Diego Python. This includes IRC, mailing lists, and San Diego Python events. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-## Considerate
+* **Be friendly and patient.**
+* **Be welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+* **Be respectful.** Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of San Diego Python should be respectful when dealing with other members as well as with people outside of the San Diego Python community.
+* **Be careful in the words that you choose.** We are a community of members with a wide range of backgrounds, but we conduct ourselves professionally. Be kind to others. Do not insult or put down other members. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
+    * Violent threats or language directed against another person.
+    * Discriminatory jokes and language.
+    * Posting sexually explicit or violent material.
+    * Posting (or threatening to post) other people's personally identifying information ("doxing").
+    * Personal insults, especially those using racist or sexist terms.
+    * Unwelcome sexual attention.
+    * Advocating for, or encouraging, any of the above behavior.
+    * Repeated harassment of others. In general, if someone asks you to stop, then stop.
+* **When we disagree, try to understand why.** Disagreements, both social and technical, happen all the time and San Diego Python is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of San Diego Python comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere, rather offer to help resolving issues and to help learn from mistakes.
 
-Members of the community are considerate of their peers -- other Python users. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community. We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
 
-## Respectful
+If you have questions about this code of conduct, don't hesitate to contact [the organizers][].
 
-Members of the community are respectful. We're respectful of others, their positions, their skills, their commitments, and their efforts. We're respectful of the volunteer efforts that permeate the Python community. We're respectful of the processes set forth in the community, and we work within them. When we disagree, we are courteous in raising our issues.
+[the organizers]: mailto:sandiegopython-organizers@googlegroups.com
 
 
-Overall, we're good to each other. We contribute to this community not because we have to, but because we want to. If we remember that, these guidelines will come naturally.
+----
 
---
 
-**Note**
-
-This is the official [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
+This code of conduct was adapted from the [Django community code of conduct](https://www.djangoproject.com/conduct/).
