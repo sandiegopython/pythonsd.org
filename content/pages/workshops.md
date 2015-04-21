@@ -4,6 +4,7 @@ Title: Workshops
 
 Our latest workshop materials:
 
+- [Intro to Python][intro to python]
 - [Test-Driven Django Development][django tdd: latest]
 
 
@@ -67,4 +68,5 @@ We have held a couple different workshops focusing on web programming
 
 
 [django tdd: latest]: http://test-driven-django-development.readthedocs.org/
+[intro to python]: https://github.com/pythonsd/intro-to-python
 [django day]: https://github.com/pythonsd/learning-django
