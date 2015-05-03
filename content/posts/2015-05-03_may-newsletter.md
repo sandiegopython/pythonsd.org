@@ -28,7 +28,8 @@ together in a collaborative environment.
 San Diego PyLadies are meeting at Lestat's on Adams Avenue on Tuesday May 12
 at 6pm. Whether you are interested in learning Python or a Python pro looking
 to keep your skills fresh with a friendly group of Ladies and supportive men,
-this is the group for you.
+this is the group for you. This meeting is now regularly held on the 2nd and
+4th Tuesdays.
 
 [PyLadies Casual Study Group]: http://www.meetup.com/sd-pyladies/events/222165575/
 
