@@ -7,11 +7,10 @@ Author: David Fischer
 
 Pythonistas,
 
-We now have a [code of conduct][]! Nothing pushed us to putting this in place.
-Our community as part of the Python community at large works hard on being
-welcoming, and this code of conduct is just a formal outline of what is expected
-from members of the community. Get in touch with one of the organizers if you
-have questions.
+We now have a [code of conduct][]! Our community as part of the Python community
+at large works hard on being welcoming, and this code of conduct is just a
+formal outline of what is expected from members of the community. Please get in
+touch with one of the organizers if you have questions.
 
 [code of conduct]: http://pythonsd.org/pages/code-of-conduct.html
 
