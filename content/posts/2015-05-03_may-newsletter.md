@@ -18,8 +18,8 @@ Upcoming events
 
 [Saturday study group][saturday-meetup] (meetup.com) <br />
 San Diego PyLadies and SD Python are continuing the Saturday study group
-at the **Ansir Center**. The goal of the Saturday study group is to learn Python
-together in a collaborative environment.
+at the **Ansir Innovation Center**. The goal of the Saturday study group is to
+learn Python together in a collaborative environment.
 
 [saturday-meetup]: http://www.meetup.com/pythonsd/events/221953664/
 
@@ -29,7 +29,7 @@ San Diego PyLadies are meeting at Lestat's on Adams Avenue on Tuesday May 12
 at 6pm. Whether you are interested in learning Python or a Python pro looking
 to keep your skills fresh with a friendly group of Ladies and supportive men,
 this is the group for you. This meeting is now regularly held on the 2nd and
-4th Tuesdays.
+4th Tuesdays of each month.
 
 [PyLadies Casual Study Group]: http://www.meetup.com/sd-pyladies/events/222165575/
 
@@ -43,8 +43,8 @@ will be in Spanish at the fantastic HUB STN coworking space at 7pm.
 
 [Monthly Meetup][] (meetup.com) <br />
 Our regular monthly meetup will be held at the Ansir Innovation Center on
-Thursday May 28 at 7pm. We are actively seeking speakers for lightning talks.
-Please comment on the meetup if you're interested in speaking.
+Thursday May 28 at 7pm. We are actively seeking speakers for five minute lightning
+talks. Please comment on the meetup if you're interested in speaking.
 
 [Monthly Meetup]: http://www.meetup.com/pythonsd/events/220848358/
 
@@ -108,6 +108,12 @@ near Torrey Pines and are all-in with Python.
 Notes
 -----
 
+We now have a [code of conduct][] for San Diego Python that applies to our
+chat room, meetups and study groups, workshops, and in all other SD Python
+spaces.
+
+[code of conduct]: http://pythonsd.org/pages/code-of-conduct.html
+
 Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
 [job posting guidelines][job-guidelines] and then [send it to us][send-it]
@@ -131,7 +137,5 @@ folks happy to help or just chat in [#sandiegopython][irc] on Freenode.
 
 [irc]: http://pythonsd.org/pages/chat-room.html
 
-We now have a [code of conduct][]!
 
-[code of conduct]: http://pythonsd.org/pages/code-of-conduct.html
 
