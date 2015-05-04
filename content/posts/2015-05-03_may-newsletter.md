@@ -7,6 +7,13 @@ Author: David Fischer
 
 Pythonistas,
 
+We now have a [code of conduct][]! Our community as part of the Python community
+at large works hard on being welcoming, and this code of conduct is just a
+formal outline of what is expected from members of the community. Please get in
+touch with one of the organizers if you have questions.
+
+[code of conduct]: http://pythonsd.org/pages/code-of-conduct.html
+
 We are always looking to highlight upcoming events, happenings and news related to the local Python community. If you come across something that should be in the newsletter, [let us know][].
 
 [let us know]: mailto:sandiegopython-organizers@googlegroups.com
@@ -130,8 +137,3 @@ Did you know that San Diego Python has a chat room? There are some nice
 folks happy to help or just chat in [#sandiegopython][irc] on Freenode.
 
 [irc]: http://pythonsd.org/pages/chat-room.html
-
-We now have a [code of conduct][]!
-
-[code of conduct]: http://pythonsd.org/pages/code-of-conduct.html
-
