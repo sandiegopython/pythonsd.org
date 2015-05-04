@@ -7,9 +7,12 @@ Author: David Fischer
 
 Pythonistas,
 
-We are always looking to highlight upcoming events, happenings and news related to the local Python community. If you come across something that should be in the newsletter, [let us know][].
+We now have a [code of conduct][]! Our community as part of the Python community
+at large works hard on being welcoming, and this code of conduct is just a
+formal outline of what is expected from members of the community. Please get in
+touch with one of the organizers if you have questions.
 
-[let us know]: mailto:sandiegopython-organizers@googlegroups.com
+[code of conduct]: http://pythonsd.org/pages/code-of-conduct.html
 
 
 Upcoming events
@@ -107,12 +110,6 @@ near Torrey Pines and are all-in with Python.
 
 Notes
 -----
-
-We now have a [code of conduct][] for San Diego Python that applies to our
-chat room, meetups and study groups, workshops, and in all other SD Python
-spaces.
-
-[code of conduct]: http://pythonsd.org/pages/code-of-conduct.html
 
 Would you like to see your job opening on our newsletter that reaches over
 1000 local Python developers? First, read our
