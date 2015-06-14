@@ -24,16 +24,6 @@ Upcoming events
 ---------------
 
 
-[Saturday study group][saturday-meetup] (meetup.com) <br />
-San Diego PyLadies and SD Python are continuing the Saturday study group
-at the **Ansir Innovation Center**. The goal of the Saturday study group is to
-learn Python together in a collaborative environment. The Saturday group event
-is starting a bit later on the 20th and 27th of this month due to a scheduling
-conflict.
-
-[saturday-meetup]: http://www.meetup.com/pythonsd/events/223048224/
-
-
 [San Diego Startup Week][] (sandiegostartupweek.com) <br />
 The third annual San Diego Startup Week (SDSW) features a week of scheduled
 events, panels and social outings in downtown San Diego from June 14-20.
@@ -48,6 +38,16 @@ hands-on tech conference of the year for Women and Men in San Diego. All skill
 levels are welcome. There are discounts for non-profits and students.
 
 [Geek Girl San Diego]: http://sandiego.geekgirltechcon.com/
+
+
+[Saturday study group][saturday-meetup] (meetup.com) <br />
+San Diego PyLadies and SD Python are continuing the Saturday study group
+at the **Ansir Innovation Center**. The goal of the Saturday study group is to
+learn Python together in a collaborative environment. The Saturday group event
+is starting a bit later on the 20th and 27th of this month due to a scheduling
+conflict.
+
+[saturday-meetup]: http://www.meetup.com/pythonsd/events/223048224/
 
 
 [PyLadies Casual Study Group][] (meetup.com) <br />
@@ -141,6 +141,3 @@ Did you know that San Diego Python has a chat room? There are some nice
 folks happy to help or just chat in [#sandiegopython][irc] on Freenode.
 
 [irc]: http://pythonsd.org/pages/chat-room.html
-
-
-
