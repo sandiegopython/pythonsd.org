@@ -8,6 +8,18 @@ Author: David Fischer
 Pythonistas,
 
 
+San Diego Python is looking to put together a short series of workshops and
+study group sessions this Summer as a companion to edX/HarveyMuddX's course
+[CS For All: Introduction to Computer Science and Python Programming][cs-4-all].
+The course (as well as SD Python workshops) is free although edX will add a
+verified course certificate for $50.
+If you're interested in taking the course or helping with the workshops,
+please chime in in the [discussion forum][].
+
+[cs-4-all]: https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x#!
+[discussion forum]: http://www.meetup.com/pythonsd/messages/boards/thread/49029197
+
+
 Upcoming events
 ---------------
 
