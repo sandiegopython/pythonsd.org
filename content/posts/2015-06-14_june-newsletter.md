@@ -1,5 +1,5 @@
 Title: June Newsletter
-Date: 2015-06-10
+Date: 2015-06-14
 Tags: newsletter
 Slug: june-newsletter-2015
 Author: David Fischer
