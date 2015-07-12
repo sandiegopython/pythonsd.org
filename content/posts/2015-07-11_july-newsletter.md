@@ -22,6 +22,12 @@ to people of all skill levels and is particularly open to those new to Python.
 [saturday-meetup]: http://www.meetup.com/pythonsd/events/223621572/
 
 
+[Introduction to Interactive Programming with Python][rice-course] (coursera) <br />
+This excellent and fun course has just started again. Join Diane, Maggie, Rebecca, Alain, Eric, Gopal, Jaime, Juan, Kyle, Peter and many others at each Saturday Study Group (see above) as we take, or retake, this class. Sure, we'll improve our collection of python made video-games! Also we'll master the skills of interactive programming with python to the point of teaching others. You could be the next tutor in a Coding Class for teenagers at UCSD! 
+
+[rice-course]: https://www.coursera.org/course/interactivepython1
+
+
 [PyLadies Casual Study Group][] (meetup.com) <br />
 San Diego PyLadies are meeting at Lestat's on Adams Avenue on Tuesday July 14
 at 6pm. Whether you are interested in learning Python or a Python pro looking
