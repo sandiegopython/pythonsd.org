@@ -1,5 +1,5 @@
 Title: July Newsletter
-Date: 2015-07-11
+Date: 2015-07-12
 Tags: newsletter
 Slug: july-newsletter-2015
 Author: David Fischer
