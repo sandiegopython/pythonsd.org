@@ -70,14 +70,6 @@ Jobs
 ----
 
 
-[Full Stack Developer][full-stack-dev] (brightscope.com) <br />
-Brightscope, a local financial analytics firm and big SD Python supporter is
-looking to hire a full stack Django developer to join their ever growing team.
-They are based in the UTC area.
-
-[full-stack-dev]: http://www.brightscope.com/about/careers/#job_Software_Engineer
-
-
 [Software Developer][ucsd-dev] (ucsd.edu) <br />
 The Division of Biomedical Informatics (DBMI) in the Department of Medicine at
 UCSD is looking for a software developer who will will collaborate with other
@@ -95,6 +87,14 @@ responsible for designing and building modular applications and APIs. The
 only absolute requirement is expertise with (and a love for) Python.
 
 [eastridge-job]: http://www.eastridgelabs.com/python-engineer
+
+
+[Full Stack Developer][full-stack-dev] (brightscope.com) <br />
+Brightscope, a local financial analytics firm and big SD Python supporter is
+looking to hire a full stack Django developer to join their ever growing team.
+They are based in the UTC area.
+
+[full-stack-dev]: http://www.brightscope.com/about/careers/#job_Software_Engineer
 
 
 ----
