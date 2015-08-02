@@ -56,12 +56,12 @@ the event more accessible to those who need it.
 [DjangoCon US]: https://2015.djangocon.us/
 
 
-[Djangogirls Inland Empire workshop][] (djangogirls.org) <br />
-Djangogirls, a non-profit that helps organize programming workshops for women,
+[Django Girls Inland Empire workshop][] (djangogirls.org) <br />
+Django Girls, a non-profit that helps organize programming workshops for women,
 is holding a workshop for women who would like to learn to build websites at
 UC Riverside on December 4-5. Space is limited!
 
-[Djangogirls Inland Empire workshop]: https://djangogirls.org/inlandempire/
+[Django Girls Inland Empire workshop]: https://djangogirls.org/inlandempire/
 
 
 Jobs
