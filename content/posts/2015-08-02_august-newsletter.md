@@ -88,13 +88,13 @@ management, and dissemination of large, heterogeneous biomedical databases.
 [ucsd-dev]: http://jobs.ucsd.edu/bulletin/job.aspx?cat=search&sortby=rank&jobnum_in=77396&search=software%20developer
 
 
-[Python Engineer][eastridge-job] (eastridge.com) <br />
+[Python Engineer][eastridge-job] (eastridgelabs.com) <br />
 Eastridge Workforce Solutions, a local provider of workforce management is
 looking for a Python engineer to join their team. The engineer will be
 responsible for designing and building modular applications and APIs. The
 only absolute requirement is expertise with (and a love for) Python.
 
-[eastridge-job]: https://my.eastridge.com/jobsearch.aspx
+[eastridge-job]: http://www.eastridgelabs.com/python-engineer
 
 
 ----
