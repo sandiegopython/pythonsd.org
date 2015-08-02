@@ -8,6 +8,17 @@ Author: David Fischer
 Pythonistas,
 
 
+Udemy has made a special offer to our members. They have a new class entitled
+[Python GUI Programming][]. The course is normally $79 but the first 50 people
+who use the coupon code "pythonsd.org" would get free access to the course.
+They're hoping that by getting started on a free course that you become
+lifelong students. If you signup, please share about your experience. If we get
+a good group of folks taking the course, perhaps the Saturday study group
+could be a useful place to compare notes.
+
+[Python GUI Programming]: https://www.udemy.com/python-gui-programming/
+
+
 Upcoming events
 ---------------
 
