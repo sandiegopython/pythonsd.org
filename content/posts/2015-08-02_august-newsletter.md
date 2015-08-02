@@ -41,13 +41,13 @@ This excellent and fun course has just started again. Join Diane, Maggie, Rebecc
 
 
 [PyLadies Casual Study Group][] (meetup.com) <br />
-San Diego PyLadies are meeting at Lestat's on Adams Avenue on Tuesday August 11
-at 6pm. Whether you are interested in learning Python or a Python pro looking
-to keep your skills fresh with a friendly group of Ladies and supportive men,
-this is the group for you. This meeting is now regularly held on the 2nd and
-4th Tuesdays of each month.
+San Diego PyLadies are meeting at Eclipse Chocolat (not the usual location)
+on Tuesday August 11 at 6pm. Get some of the best chocolate in San Diego and
+learn some code. Whether you are interested in learning Python or a Python
+pro looking to keep your skills fresh with a friendly group of Ladies and
+supportive men, this is the group for you.
 
-[PyLadies Casual Study Group]: http://www.meetup.com/sd-pyladies/events/xvnvglytlbpb/
+[PyLadies Casual Study Group]: http://www.meetup.com/sd-pyladies/events/224341267/
 
 
 [Monthly Meetup][] (meetup.com) <br />
