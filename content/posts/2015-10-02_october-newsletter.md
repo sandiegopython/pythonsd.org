@@ -37,6 +37,16 @@ Bring a laptop!
 [saturday-meetup]: http://www.meetup.com/pythonsd/events/225248201/
 
 
+[Becoming a NumPy contributor][numpy-contributor] (eventbrite.com) <br />
+If you're interested in data science and NumPy but don't know how you can help,
+this is the event for you. Come get your hands dirty on October 19 at Geisel
+Library at UCSD. You will learn about contributing to NumPy with Git and
+GitHub. Tickets are free but very limited to the general public. Lots of
+tickets are available for UCSD students.
+
+[numpy-contributor]: https://www.eventbrite.com/e/become-an-open-source-contributor-to-numpy-tickets-18899110749
+
+
 [Introduction to Interactive Programming with Python][rice-course] (coursera.org) <br />
 This excellent and fun course has just started again. Join Diane, Maggie, Rebecca, Alain, Eric, Gopal, Jaime, Juan, Kyle, Peter and many others at each Saturday Study Group (see above) as we take, or retake, this class. Sure, we'll improve our collection of python made video-games! Also we'll master the skills of interactive programming with python to the point of teaching others. You could be the next tutor in a Coding Class for teenagers at UCSD!
 
