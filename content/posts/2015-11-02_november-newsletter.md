@@ -60,17 +60,18 @@ speaking.
 [Django Girls Inland Empire workshop][] (djangogirls.org) <br />
 Django Girls, a non-profit that helps organize programming workshops for women,
 is holding a workshop for women who would like to learn to build websites at
-UC Riverside on December 4-5. The application period is closed but they are
-still looking for mentors.
+UC Riverside on December 5. Applications are still open and they are
+looking for mentors.
 
 [Django Girls Inland Empire workshop]: https://djangogirls.org/inlandempire/
 
 
 [PyCon 2016][pycon-2016] (us.pycon.org) <br />
-PyCon 2016 is coming to Porland Oregon in late May 2016. Registration opens
-in mid-October. The call for proposals is open if you want to speak at PyCon.
+PyCon 2016 is coming to Porland Oregon in late May 2016. [Registration][] and
+the call for proposals are now open.
 
 [pycon-2016]: https://us.pycon.org/2016/
+[Registration]: https://us.pycon.org/2016/registration/
 
 
 Jobs
