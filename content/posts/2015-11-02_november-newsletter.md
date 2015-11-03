@@ -79,6 +79,17 @@ Jobs
 
 ----
 
+[Backend Django Developer][signspan-job] (signspan.com) <br />
+SignSpan is a San Diego-based startup focused on developing a digital signage
+cloud platform. We are looking for a remote, part-time backend developer
+conversant in python and Django. Responsibilities include design,
+implementation, and maintenance of REST APIs. Expertise in Mandrill, AWS,
+Swagger, agile, and JIRA are highly recommended. Contact [Tom][] for details.
+
+[signspan-job]: http://www.signspan.com/
+[Tom]: https://www.linkedin.com/pub/tom-yip/5/883/90a
+
+
 [Python Engineer][eastridge-job] (eastridgelabs.com) <br />
 Eastridge Workforce Solutions, a local provider of workforce management is
 looking for a Python engineer to join their team. The engineer will be
