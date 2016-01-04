@@ -91,12 +91,13 @@ HBase is helpful. Contact Diego with Sayva Solutions for details.
 As seen on [Hacker News][hacker-news-qualcomm] :
 Qualcomm's Chip Architecture team is looking for developers to build profiling tools that our engineers
 use to gain critical insights into the performance of mobile chips that power billions of devices worldwide.
-As seen on [Hacker News][hacker-news-qualcomm] :
+
 [hacker-news-qualcomm]: https://news.ycombinator.com/item?id=10657630
 [qualcomm-technical-lead]: https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1938957
 
 
 [Software Developer for System Profiling & Analysis Tools][qualcomm-software-developer] (Qualcomm San Diego, CA) <br />
+As seen on [Hacker News][hacker-news-qualcomm] :
 Qualcomm's Chip Architecture team is looking for developers to build profiling tools that our engineers
 use to gain critical insights into the performance of mobile chips that power billions of devices worldwide.
 
