@@ -87,6 +87,18 @@ HBase is helpful. Contact Diego with Sayva Solutions for details.
 [developer-consultant]: https://www.linkedin.com/in/daguillon
 
 
+Technical Lead - Software Development for System Profiling & Analysis Tools (Qualcomm San Diego, CA)
+As seen on Hacker News: https://news.ycombinator.com/item?id=10657630
+Qualcomm's Chip Architecture team is looking for developers to build profiling tools that our engineers
+use to gain critical insights into the performance of mobile chips that power billions of devices worldwide.
+[qualcomm-technical-lead]: https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1938957
+
+
+Software Developer for System Profiling & Analysis Tools (Qualcomm San Diego, CA)
+Qualcomm's Chip Architecture team is looking for developers to build profiling tools that our engineers
+use to gain critical insights into the performance of mobile chips that power billions of devices worldwide.
+[qualcomm-software-developer]: https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1938958
+
 ----
 
 Would you like to see your job opening on our newsletter that reaches over
