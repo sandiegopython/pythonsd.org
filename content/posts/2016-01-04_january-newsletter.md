@@ -43,7 +43,7 @@ Thursday January 28 at 7pm. We are actively seeking speakers for five to ten
 minute lightning talks. Please comment on the meetup if you're interested in
 speaking.
 
-[Monthly Meetup]: http://www.meetup.com/pythonsd/events/226177901/
+[Monthly Meetup]: http://www.meetup.com/pythonsd/events/227786066/
 
 
 [PyCon 2016][pycon-2016] (us.pycon.org) <br />
