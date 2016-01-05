@@ -24,7 +24,7 @@ learn Python together in a collaborative environment. The study group is open
 to people of all skill levels and is particularly open to those new to Python.
 Bring a laptop!
 
-[saturday-meetup]: http://www.meetup.com/pythonsd/events/226399158/
+[saturday-meetup]: http://www.meetup.com/pythonsd/events/227540023/
 
 
 [PyLadies Casual Study Group][] (meetup.com) <br />
@@ -34,7 +34,7 @@ learn some code. Whether you are interested in learning Python or a Python
 pro looking to keep your skills fresh with a friendly group of Ladies and
 supportive men, this is the group for you.
 
-[PyLadies Casual Study Group]: http://www.meetup.com/sd-pyladies/events/xvnvglytpbnb/
+[PyLadies Casual Study Group]: http://www.meetup.com/sd-pyladies/events/xvnvglyvcbqb/
 
 
 [Monthly Meetup][] (meetup.com) <br />
