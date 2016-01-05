@@ -47,7 +47,7 @@ speaking.
 
 
 [PyCon 2016][pycon-2016] (us.pycon.org) <br />
-PyCon 2016 is coming to Portland Oregon May 28 - June 1 2016. [Registration][] and
+PyCon 2016 is coming to Portland Oregon May 28 - June 1 2016. [Registration][]
 are open.
 
 [pycon-2016]: https://us.pycon.org/2016/
