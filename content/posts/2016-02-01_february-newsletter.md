@@ -1,7 +1,7 @@
-Title: January Newsletter
+Title: February Newsletter
 Date: 2016-01-04
 Tags: newsletter
-Slug: january-newsletter-2016
+Slug: February-newsletter-2016
 Author: Alain Domissy
 
 
@@ -16,7 +16,7 @@ Upcoming events
 
 [Saturday study group][saturday-meetup] (meetup.com) <br />
 San Diego PyLadies and SD Python are continuing the Saturday study group
-at the Ansir Innovation Center (1pm - 4pm) The goal of the Saturday study group is to
+at the Ansir Innovation Center (12:30pm - 3pm) The goal of the Saturday study group is to
 learn Python together in a collaborative environment. The study group is open
 to people of all skill levels and is particularly open to those new to Python.
 Bring a laptop!
