@@ -118,7 +118,7 @@ We are always looking for people willing to help organize San Diego Python.
 Can you help film speakers at the monthly meetup? Would you like to put
 together this newsletter once in a while? Want to help at the beginners table
 at the Saturday study group? Ask an [organizer][] how you can help!
-please join us at our weekly volunteer coordination on Sat.12 noon aT ANSIR
+Please join us at our weekly volunteer coordination on Sat.12 noon at ANSIR
 
 
 [organizer]: mailto:sandiegopython-organizers@googlegroups.com
