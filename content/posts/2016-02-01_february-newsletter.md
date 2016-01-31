@@ -1,5 +1,5 @@
 Title: February Newsletter
-Date: 2016-01-04
+Date: 2016-02-01
 Tags: newsletter
 Slug: February-newsletter-2016
 Author: Alain Domissy
