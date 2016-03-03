@@ -76,15 +76,6 @@ Swagger, agile, and JIRA are highly recommended. Contact [Tom][] for details.
 [Tom]: https://www.linkedin.com/pub/tom-yip/5/883/90a
 
 
-[Python Engineer][eastridge-job] (eastridgelabs.com) <br />
-Eastridge Workforce Solutions, a local provider of workforce management is
-looking for a Python engineer to join their team. The engineer will be
-responsible for designing and building modular applications and APIs. The
-only absolute requirement is expertise with (and a love for) Python.
-
-[eastridge-job]: http://www.eastridgelabs.com/python-engineer
-
-
 [Python Developer Consultant][developer-consultant] (linkedin.com) <br />
 A client in the La Jolla/UTC area is looking for a candidate with heavy Python
 development.  Knowledge of Apache, Linux, multiprocessing, SQL, Mongo DB and
