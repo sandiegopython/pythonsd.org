@@ -60,6 +60,28 @@ is still open.
 [Registration]: https://us.pycon.org/2016/registration/
 
 
+Ansir Innovation Center: http://ansirsd.com/ <br/> 
+Ansir, the SD community co-working space is going through spring cleaning, improving the layout of the co-working space and
+opening up new areas with :
+- a donate-a-book / adopt-a-book library
+- knitting/craft corner
+- private phone booth / napping closet
+- sqare-er coworking room with improved layout for workshops
+Come and check it out !
+
+Monday March 14th coworking jelly: http://www.meetup.com/AnsirSD/events/228791212/  <br/> 
+Jelly is a casual working event that takes place in hundreds of cities all over the world. There is no agenda, no speaker, nothing. Just bring your laptop and work stuff, come by Ansir, and work out of our space for a day (for free! including coffee!).
+
+Get the Ansir Newsletter: http://eepurl.com/jV7-n  <br/> 
+This newsletter is the official source of Ansir-related news.
+In each newsletter we'll share with you:
+- Events going on at Ansir
+- Tasty food near Ansir
+- Important changes at Ansir
+- other cool events in San Diego
+We group our announcements and we promise not to spam you.
+
+
 Jobs
 ----
 
