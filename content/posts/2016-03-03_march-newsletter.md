@@ -14,12 +14,13 @@ Upcoming events
 ----
 
 
-[Django Girls San Diego][] (djangogirls.org) <br />
-Django Girls is an organization that facilitates one-day programming workshops
-for women that want to write their first website. Django Girls San Diego is in
-planning, and will be scheduled for late Spring or early Summer.
+[Django Girls San Diego][Django Girls] (djangogirls.org) <br />
+Django Girls is coming to San Diego! They are an organization that facilitates
+one-day programming workshops for women that want to write their first website.
+It will probably take place in late Spring or early Summer, keep an eye out for
+more info.
 
-[Django Girls San Diego]: https://djangogirls.org/sandiego/
+[Django Girls]: https://djangogirls.org/
 
 
 [Saturday study group][saturday-meetup] (meetup.com) <br />
@@ -100,6 +101,12 @@ In each newsletter we'll share with you:
 We group our announcements and we promise not to spam you.
 
 [Ansir Newsletter]: http://aicenterca.us4.list-manage.com/subscribe?u=e6e261b1469a13844234252e7&id=fce9b18307
+
+
+[Collective1939][] (strikingly.com) <br />
+Collective1939 is a creative coworking space in El Cajon. Crowdfunding may be
+starting sometime this month.
+[Collective1939]: http://collective1939.strikingly.com/
 
 
 Jobs
