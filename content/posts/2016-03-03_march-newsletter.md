@@ -52,6 +52,15 @@ speaking.
 [Monthly Meetup]: http://www.meetup.com/pythonsd/events/229303767/
 
 
+[Coworking Jelly][] (meetup.com) <br />
+Jelly is a casual working event that takes place in hundreds of cities all over
+the world on Monday March 14th. There is no agenda, no speaker, nothing. Just
+bring your laptop and work stuff, come by Ansir, and work out of our space for
+a day (for free! including coffee!).
+
+[Coworking Jelly]: http://www.meetup.com/AnsirSD/events/228791212/
+
+
 [PyCon 2016][pycon-2016] (us.pycon.org) <br />
 PyCon 2016 is coming to Portland Oregon May 28 - June 1 2016. [Registration][]
 is still open.
@@ -60,26 +69,37 @@ is still open.
 [Registration]: https://us.pycon.org/2016/registration/
 
 
-Ansir Innovation Center: http://ansirsd.com/ <br/> 
-Ansir, the SD community co-working space is going through spring cleaning, improving the layout of the co-working space and
-opening up new areas with :
+News
+----
+
+----
+
+[Ansir Innovation Center][] (ansirsd.com) <br />
+Ansir, the SD community co-working space is going through spring cleaning,
+improving the layout of the co-working space and opening up new areas with:
+
 - a donate-a-book / adopt-a-book library
-- knitting/craft corner
+- knitting & craft corner
 - private phone booth / napping closet
-- sqare-er coworking room with improved layout for workshops
+- open work area with a new layout optimized for workshops
+
 Come and check it out !
 
-Monday March 14th coworking jelly: http://www.meetup.com/AnsirSD/events/228791212/  <br/> 
-Jelly is a casual working event that takes place in hundreds of cities all over the world. There is no agenda, no speaker, nothing. Just bring your laptop and work stuff, come by Ansir, and work out of our space for a day (for free! including coffee!).
+[Ansir Innovation Center]: http://ansirsd.com/
 
-Get the Ansir Newsletter: http://eepurl.com/jV7-n  <br/> 
+
+[Ansir Newsletter][] (list-manage.com) <br />
 This newsletter is the official source of Ansir-related news.
 In each newsletter we'll share with you:
+
 - Events going on at Ansir
 - Tasty food near Ansir
 - Important changes at Ansir
 - other cool events in San Diego
+
 We group our announcements and we promise not to spam you.
+
+[Ansir Newsletter]: http://aicenterca.us4.list-manage.com/subscribe?u=e6e261b1469a13844234252e7&id=fce9b18307
 
 
 Jobs
