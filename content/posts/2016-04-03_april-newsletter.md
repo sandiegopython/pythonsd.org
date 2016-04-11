@@ -115,6 +115,18 @@ Jobs
 
 ----
 
+[Python Engineer][eastridge-job] (eastridge.com) <br />
+"Our industry employs millions of people around the world. But
+the software that powers it has a notorious reputation. Too frequently,
+enterprise software is poorly designed, not extensible, and difficult
+to maintain. At Eastridge, our vision is to defy those expectations. We
+built our industry's first RESTful cloud platform. Our platform enables
+us to develop applications in a fraction of the time, while making it
+easy to integrate 3rd parties."
+
+[eastridge-job]: https://www.eastridge.com/eastridge-careers/jobs/1423/python-engineer
+
+
 [Backend Django Developer][signspan-job] (signspan.com) <br />
 SignSpan is a San Diego-based startup focused on developing a digital signage
 cloud platform. We are looking for a remote, part-time backend developer
