@@ -1,11 +1,14 @@
 Title: April Newsletter
-Date: 2016-04-03
+Date: 2016-04-10
 Tags: newsletter
 Slug: april-newsletter-2016
 Author: Micah Denbraver
 
 
 Pythonistas,
+
+
+Sorry about the belated email! Here are your updates for this month:
 
 
 Upcoming events
