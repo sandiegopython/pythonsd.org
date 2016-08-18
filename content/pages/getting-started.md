@@ -75,7 +75,7 @@ programmers or Python for data analysis.
 Our interactive [Django TDD workshop material][django tdd] is a good extension to the [official Django tutorial][django tutorial].
 
 [django tdd]: http://test-driven-django-development.readthedocs.org/
-[django tutorial]: https://docs.djangoproject.com/en/1.6/intro/ 
+[django tutorial]: https://docs.djangoproject.com/en/dev/intro/
 
 
 #### Where to get help locally
