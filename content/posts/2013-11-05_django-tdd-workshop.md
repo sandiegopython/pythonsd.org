@@ -4,8 +4,8 @@ Tags: workshop
 Slug: november-2013-django-tdd-workshop
 Author: David Fischer
 
-<a href="/static/images/2013-11-05_django-tdd-workshop.jpg">
-  <img src="/static/images/2013-11-05_django-tdd-workshop.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Test-Driven Development workshop" />
+<a href="/images/2013-11-05_django-tdd-workshop.jpg">
+  <img src="/images/2013-11-05_django-tdd-workshop.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Test-Driven Development workshop" />
 </a>
 
 We had 40 people attend our

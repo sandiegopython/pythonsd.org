@@ -4,8 +4,8 @@ Tags: workshop
 Slug: february-2013-django-day
 Author: David Fischer
 
-<a href="/static/images/2013-02-23_django-day.jpg">
-  <img src="/static/images/2013-02-23_django-day.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Day workshop" />
+<a href="/images/2013-02-23_django-day.jpg">
+  <img src="/images/2013-02-23_django-day.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Django Day workshop" />
 </a>
 
 We had about 30 people attend our
