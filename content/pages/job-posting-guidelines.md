@@ -1,7 +1,7 @@
 Title: Job Posting Guidelines
 
 
-Would you like to get your job posting in front of over 700 local developers?
+Would you like to get your job posting in front of over 1700 local developers?
 Here are the steps and guidelines for posting your open position:
 
 * The job posting must relate to Python in some way. This is the San Diego
