@@ -15,7 +15,8 @@ Here are the steps and guidelines for posting your open position:
 Once you've crafted your job posting, send it in an email to
 [PythonSD-list@meetup.com][email] from the same address you used to join the
 [Meetup.com group][meetup-group]. These postings work best without attachments.
-There's a slight delay as all messages require approval.
+**Make sure to include your email or a link** to the best way to get in
+touch with you.
 
 [email]: mailto:PythonSD-list@meetup.com
 [meetup-group]: http://meetup.com/pythonsd
@@ -23,16 +24,16 @@ There's a slight delay as all messages require approval.
 
 San Diego Python also sends out a newsletter on a monthly basis that includes
 job postings. If you would like your job posting featured in our newsletter,
-please send it to [sandiegopython@gmail.com][]. See the
-[newsletter from June 2014][june-newsletter] for an example of a past
-newsletter.
+make sure to include a direct link (URL) to your job posting when you send it
+to the mailing list. The newsletter authors use these links to craft the
+newsletter. See the [June 2014 newsletter][] for an example.
 
-[sandiegopython@gmail.com]: mailto:sandiegopython@gmail.com
-[june-newsletter]: http://pythonsd.org/june-newsletter-2014.html
+[June 2014 newsletter]: http://pythonsd.org/june-newsletter-2014.html
 
 
 Posting a job opening is free but if you find excellent developers through
 San Diego Python, please consider a [donation][] to San Diego Python. Your
-tax deductible donations go entirely toward running our periodic workshops.
+tax deductible donations go entirely toward running our periodic workshops,
+paying for venues and other great things for the local Python community.
 
 [donation]: https://psfmember.org/civicrm/contribute/transact?reset=1&id=9
