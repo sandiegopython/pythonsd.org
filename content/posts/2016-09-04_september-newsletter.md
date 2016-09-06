@@ -21,8 +21,9 @@ Upcoming events
 
 [Saturday study group][saturday-meetup] (meetup.com) <br />
 San Diego PyLadies and SD Python are continuing the Saturday study group.
-The location is still being worked out. Check the meetup page
-for details. The goal of the Saturday study group
+This will be our last time at the Convoy Street location 
+as Ansir will be moving the following week to new (nicer!) offices. 
+Check the meetup page for details. The goal of the Saturday study group
 is to learn Python together in a collaborative environment. The study group is
 open to people of all skill levels and is particularly open to those new to
 Python. <br />
