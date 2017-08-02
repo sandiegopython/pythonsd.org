@@ -22,6 +22,10 @@
         color: white;
         text-shadow: none;
       }
+      #meetup_widget .mup-ft {
+        /* Meetup widget has a broken footer - hide it */
+        display: none;
+      }
       p {
         font-size: 0.9em;
       }
@@ -96,6 +100,7 @@
                 Site
                 </li>
 
+                <li><a href="https://goo.gl/forms/NmfGY4ReTTPms9cw1" target="_blank" rel="noopener noreferrer">Feedback &amp; Suggestions</a>
                 <li><a href="{{ SITEURL }}/archives.html">Archives</a>
                 <li><a href="{{ SITEURL }}/tags.html">Tags</a>
                 {% if FEED_ATOM %}
