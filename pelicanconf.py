@@ -10,7 +10,7 @@ TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 
 TEMPLATE_PAGES = {
-    'static/home.html': 'index.html',
+    'static/home.tpl': 'index.html',
 }
 
 # Social widget
