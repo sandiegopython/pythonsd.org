@@ -21,6 +21,7 @@ SOCIAL = (
     ('google group', 'https://groups.google.com/group/pythonsd'),
     ('github', 'http://github.com/pythonsd'),
     ('irc', 'irc://irc.freenode.net/sandiegopython'),
+    ('slack', 'https://pythonsd.slack.com/'),
 )
 
 DEFAULT_PAGINATION = 10

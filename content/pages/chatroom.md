@@ -1,10 +1,16 @@
 Title: Chat Room
 
 Meetup events aren't the only time for chatting.  There's also a
-\#sandiegopython IRC channel on Freenode. Sign on to ask questions,
-give answers, or just hang out.
+\#sandiegopython IRC channel on Freenode as well as our Slack channel.
+Sign on to ask questions, give answers, or just hang out.
 
-This page contains instructions for signing onto the IRC channel.
+### Slack
+
+San Diego Python's Slack channel is available at
+[pythonsd.slack.com](https://pythonsd.slack.com/). To join, you have to
+be invited. Use the Web Client below to join IRC and request an invite to
+Slack.
+
 
 ### Web Client
 
