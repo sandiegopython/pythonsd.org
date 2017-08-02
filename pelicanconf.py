@@ -3,14 +3,14 @@
 
 AUTHOR = u'San Diego Python'
 SITENAME = u'San Diego Python'
-SITEURL = 'http://pythonsd.org'
+SITEURL = 'http://www.pythonsd.org'
 
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
 TEMPLATE_PAGES = {
-    'static/home.html': 'index.html',
+    'static/home.tpl': 'index.html',
 }
 
 # Social widget
@@ -28,10 +28,25 @@ DEFAULT_PAGINATION = 10
 
 THEME = "themes/sandiegopython"
 
-FEED_ATOM = "feeds/posts.atom.xml"
+FEED_DOMAIN = SITEURL
+FEED_ATOM = 'feeds/posts.atom.xml'
+FEED_RSS = 'feeds/posts.rss.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
-JINJA_EXTENSIONS = (
-    'jinja2.ext.loopcontrols',
-)
+JINJA_ENVIRONMENT = {
+    'extensions': (
+        'jinja2.ext.loopcontrols',
+    ),
+    'trim_blocks': True,
+    'lstrip_blocks': True,
+}
 
 STATIC_PATHS = ['images']
+
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = True

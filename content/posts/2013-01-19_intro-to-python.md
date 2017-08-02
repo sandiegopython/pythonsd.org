@@ -4,8 +4,8 @@ Tags: workshop
 Slug: january-2013-intro-to-python
 Author: David Fischer
 
-<a href="/static/images/2013-01-19_intro-to-python.jpg">
-  <img src="/static/images/2013-01-19_intro-to-python.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Intro to Python workshop" />
+<a href="/images/2013-01-19_intro-to-python.jpg">
+  <img src="/images/2013-01-19_intro-to-python.jpg" style="width: 300px; margin: 10px;" class="img-polaroid pull-right" alt="Intro to Python workshop" />
 </a>
 
 We had over 30 people attend our
