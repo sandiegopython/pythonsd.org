@@ -37,9 +37,13 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-JINJA_EXTENSIONS = (
-    'jinja2.ext.loopcontrols',
-)
+JINJA_ENVIRONMENT = {
+    'extensions': (
+        'jinja2.ext.loopcontrols',
+    ),
+    'trim_blocks': True,
+    'lstrip_blocks': True,
+}
 
 STATIC_PATHS = ['images']
 
