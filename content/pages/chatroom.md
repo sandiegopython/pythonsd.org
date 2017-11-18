@@ -7,10 +7,9 @@ Sign on to ask questions, give answers, or just hang out.
 ### Slack
 
 San Diego Python's Slack channel is available at
-[pythonsd.slack.com](https://pythonsd.slack.com/). To join, you have to
-be invited. Use the Web Client below to join IRC and request an invite to
-Slack.
-
+[pythonsd.slack.com](https://pythonsd.slack.com/). Use
+[this page](https://pythonsd-slack.herokuapp.com/) to get an invite to create
+your account.
 
 ### Web Client
 
