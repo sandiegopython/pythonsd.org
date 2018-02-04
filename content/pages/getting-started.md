@@ -22,6 +22,7 @@ If you haven't done so already, join the [San Diego Python group](http://www.mee
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) - a
  free online guide for people who want step by step tutorials for learning
  Python. There are over 50 exercises here.
+ * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - In Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand-no prior programming experience required. Practical programming for total beginners.
 
 The Python guide has a whole section on
 [learning Python](http://docs.python-guide.org/en/latest/intro/learning/)
