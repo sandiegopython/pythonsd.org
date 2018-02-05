@@ -50,6 +50,7 @@ There are great videos for both Python novices as well as experts.
 * [Getting started with Django](http://gettingstartedwithdjango.com/) -
  This kickstarter funded video series is for people with some Python
  background who are looking to learn Django.
+* [Django OverIQ](https://overiq.com/django/1.10/intro-to-django) A great indepth introduction to Django framework for beginners
 
 
 #### Books
