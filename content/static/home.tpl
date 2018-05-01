@@ -41,6 +41,7 @@
       <a href="http://hired.com"><img src="{{ SITEURL }}/images/sponsors/hired.png" alt="Hired" class="sponsor" /></a>
       <a href="https://www.scalematrix.com"><img src="{{ SITEURL }}/images/sponsors/scalematrix.png" alt="ScaleMatrix - a local hybrid service provider of cloud, colocation, disaster recovery, storage, and managed IT services" class="sponsor" /></a>
       <a href="http://zeeto.io/"><img src="{{ SITEURL }}/images/sponsors/zeeto.png" alt="Zeeto - Actionable intelligence through questions" class="sponsor" /></a>
+      <a href="https://www.cloudflare.com/"><img src="{{ SITEURL }}/images/sponsors/cloudflare-logo.png" alt="Cloudflare - A growing global network built for scale" class="sponsor" /></a>
 
     </p>
   </div>
