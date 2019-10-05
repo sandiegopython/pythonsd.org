@@ -3,7 +3,7 @@
 
 AUTHOR = u'San Diego Python'
 SITENAME = u'San Diego Python'
-SITEURL = 'http://www.pythonsd.org'
+SITEURL = 'https://www.pythonsd.org'
 
 TIMEZONE = 'America/Los_Angeles'
 
