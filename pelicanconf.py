@@ -16,10 +16,10 @@ TEMPLATE_PAGES = {
 # Social widget
 # Icons are in themes/sandiegopython/static/images/icons
 SOCIAL = (
-    ('meetup', 'http://meetup.com/pythonsd'),
-    ('twitter', 'http://twitter.com/sandiegopython'),
+    ('meetup', 'https://meetup.com/pythonsd'),
+    ('twitter', 'https://twitter.com/sandiegopython'),
     ('google group', 'https://groups.google.com/group/pythonsd'),
-    ('github', 'http://github.com/pythonsd'),
+    ('github', 'https://github.com/pythonsd'),
     ('irc', 'irc://irc.freenode.net/sandiegopython'),
     ('slack', 'https://pythonsd.slack.com/'),
 )
