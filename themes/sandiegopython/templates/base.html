@@ -22,10 +22,6 @@
         color: white;
         text-shadow: none;
       }
-      #meetup_widget .mup-ft {
-        /* Meetup widget has a broken footer - hide it */
-        display: none;
-      }
       p {
         font-size: 0.9em;
       }
@@ -91,8 +87,10 @@
             {% endif %}
 
             <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
-                <!-- Meetup Widget: https://www.meetup.com/meetup_api/foundry/ -->
-                <iframe width="218" height="350" src="https://meetu.ps/3ccdby" frameborder="0" class="pagination-centered"></iframe>
+                <!-- Meetup Widget -->
+                <ul class="nav nav-list" id="meetup-widget">
+                    <li class="nav-header">Upcoming events</li>
+                </ul>
             </div>
 
             <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
@@ -168,6 +166,7 @@
 </div> <!-- /container -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script src="{{ SITEURL }}/theme/bootstrap.min.js"></script>
+<script src="{{ SITEURL }}/theme/meetup-widget.js"></script>
 
 {% include "analytics.html" %}
 {% include "github.html" %}
