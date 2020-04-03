@@ -29,6 +29,7 @@
     We would like to thank the companies and organizations who have hosted or sponsored past events. Let us know if you would like to become a sponsor or host by emailing <a href="mailto:sandiegopython@gmail.com">sandiegopython@gmail.com</a>. We have worked with the Python Software Foundation to <a href="https://psfmember.org/civicrm/contribute/transact?reset=1&id=9">accept contributions on our behalf</a>. Donations entirely go to hosting meetups and workshops and paying for a venue.
     <p>
 
+      <a href="https://jfrog.com/"><img src="{{ SITEURL }}/images/sponsors/jfrog-logo.png" alt="JFrog" class="sponsor" /></a>
       <a href="http://aicenterca.com/"><img src="{{ SITEURL }}/images/sponsors/ansir_logo.png" alt="Ansir Innovation Center" class="sponsor" /></a>
       <a href="http://www.cukerinteractive.com/"><img src="{{ SITEURL }}/images/sponsors/cuker_logo.png" alt="Cuker Interactive" class="sponsor" /></a>
       <a href="http://co-merge.com/"><img src="{{ SITEURL }}/images/sponsors/comerge_logo.png" alt="Co-Merge" class="sponsor" /></a>
