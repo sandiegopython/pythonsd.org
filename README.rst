@@ -11,7 +11,7 @@ Generating the website
   % pip install -r requirements.txt
   % make html
 
-
+easy to learn  and modify as per your comfort.
 Viewing the site locally
 ------------------------
 
